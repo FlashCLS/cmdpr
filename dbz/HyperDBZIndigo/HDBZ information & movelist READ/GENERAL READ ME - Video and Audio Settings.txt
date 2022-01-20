@@ -1,0 +1,25 @@
+Full screen ALT + ENTER
+
+To configure your video and audio settings and various other options 
+
+Go to the folder data and open mugen.cfg in your favorite text program
+You can scroll down to find video, sound, and many other options to help you run the game more efficiently
+
+All stage music is in the SOUNDS directory
+To change music in stages you have 2 options.
+
+1.rename your music file to the name of the stage music 
+EXAMPLE 
+dbnamek.mp3
+
+2.go to the stages folder and open the stage.def with a text editor and replace the filename there
+EXAMPLE
+[music]
+
+bgmusic = sound/dbchamber.mp3
+bgvolume = 100
+
+-Press F1 at mode select screen for Info Box
+-Each character has a config.txt you can edit for more options like changing voices.
+-To change colors for Goku, SSJ Goku, Vegeta, Majin Vegeta, Gohan, Freeza, and Babidi edit their .def
+-To change colors for Piccolo and Satan edit their config.txt

@@ -1,0 +1,1147 @@
+------------------------------------------
+M.U.G.E.N ver 1.00 (2011.01.18) status log
+------------------------------------------
+Parsing command line...
+Command line: C:\Users\ufunn\Desktop\dbz\HyperDBZIndigo\Hyper DBZ 5.0d\Hyper DBZ.exe
+Parse command line OK
+Initializing...
+Allocating game variables
+Reading configuration file...OK
+Initializing timer...performance timer enabled...frequency 10000000...OK
+Initializing keyboard...configuring...OK
+Initializing input engine...OK
+Initializing sound...Using SDL audio driver: dsound
+Requesting mixer parameters (44100, 16, 2, 2048)...
+Opened mixer with parameters (44100, 16, 2, 2048)...
+OK
+Initializing BGM...BGMThreadInit returned 0
+OK
+Initializing graphics...gameCoord 640x480...render mode 2_4...trying 640x480x16 mode 0x0...success...OK
+Setting callbacks...OK
+Initializing font...OK
+Initializing game variables...OK
+Loading system fonts...OK
+Loading options...
+Initializing pads...failed
+Reinitializing input engine...OK
+Remapping keys...OK
+Reinitializing input engine...OK
+Options loaded OK
+Loading system...
+  Load system file system.def...OK
+  Load system spr...OK
+  Load system snd...OK
+  Load system fonts...OK
+  Load system anim...OK
+  Load [Title Info]...OK
+  Load [Option Info]...OK
+  Load [Select Info]...OK
+  Load [VS Screen]...OK
+  Load [Victory Screen]...OK
+  Load [Demo Mode]...OK
+  Load [Continue Screen]...OK
+  Load [Game Over Screen]...OK
+  Load [Win Screen]...OK
+  Load [Survival Results Screen]...OK
+  Load [Default Ending]...OK
+  Load [End Credits]...OK
+  Load TitleBG...VersusBG...VictoryBG...SelectBG...OptionBG...OK
+  Loading fight data
+    Opening fight data file data/HyperDBZ_Lifebar/fight.def...OK
+    Reading [Files]...OK
+    Loading fonts...OK
+    Load fight anim...OK
+    Reading [Lifebar]...[Turns Lifebar]...[Simul Lifebar]...[Powerbar]...
+    [Face]...[Simul Face]...[Turns Face]...
+    [Name]...[Simul Name]...[Turns Name]...
+    [Time]...[Combo]...[Round]...[WinIcon]...OK
+    Allocating explods...OK
+  Fight data loaded OK
+System loaded OK
+Initialize OK
+Set up graphics...timer...OK
+Playing storyboard intro.def: scene
+attempting load and start...attempting load of data/intro2.mp3...hooking mixer callback...
+success!
+starting BGM...
+Storyboard playback finished OK
+Finished playing storyboard intro.def: scene
+Initializing character info...OK
+Initializing select screen...finding characters...
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/training/training.def
+
+  Error reading character file: chars/training/training_small.def
+
+  Error reading character file: chars/training/training_medium.def
+
+  Error reading character file: chars/training/training_large.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/BlackZ2/BlackZ2.def
+
+  Error reading character file: chars/JirenZ2/JirenZ2.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+
+  Error reading character file: chars/EMPTY/EMPTY.def
+OK
+
+Entering main loop
+Playing storyboard press_start.def: scene
+attempting load and start...attempting load of data/press_start.mp3...success!
+starting BGM...
+Storyboard playback canceled 400:0 kD p0
+Finished playing storyboard press_start.def: scene
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Options Screen
+Config keys menu
+Setting up input
+Remapping keys...OK
+Reinitializing input engine...OK
+Return from config keys menu
+Return from Options Screen
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Loading character chars/SSJ_GokuZ2/SSJ_GokuZ2.def...
+  Loading info...OK
+  Loading cmd command set files\goku.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files\goku.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\goku.sff...OK
+  Loading anim files\goku.air...OK
+  Loading snd files\goku-jap-bl.snd...attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+OK
+  Loading pals...OK
+  32505 expressions (10783 on trigger lines)
+Character SSJ_GokuZ2.def loaded OK
+Loading character chars/GotenksZ2/GotenksZ2.def...
+  Loading info...OK
+  Loading cmd command set files/gotenks.mfg...OK
+  Loading cns states/constants.cns...OK
+  Loading cns states/system.cns...OK
+  Loading cns states/helpers.cns...OK
+  Loading cns states/state-2-3.cns...OK
+  Loading cns states/override.cns...OK
+  Loading cns states/specials.cns...OK
+  Loading cns states/supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files/gotenks.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files/gotenks.sff...OK
+  Loading anim files/gotenks.air...OK
+  Loading snd files/gotenks.snd...OK
+  Loading pals...OK
+  44881 expressions (19229 on trigger lines)
+Character GotenksZ2.def loaded OK
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...attempting load of sound/stages/hdbz_chamber.mp3...OK
+  Allocating helpers...success!
+OK
+Stage initialized OK
+Start of game loop
+prebuffering BGM...
+End of game loop
+Total time: 230.10s
+Total frames: 13782 	Skipped frames: 6883
+Avg game rate: 59.90
+Avg frame rate: 29.98
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Loading character chars/SSJ_VegetaZ2/SSJ_VegetaZ2.def...
+  Loading info...OK
+  Loading cmd command set files/command.mfg...OK
+  Loading cns states/constants.cns...OK
+  Loading cns states/helpers.cns...OK
+  Loading cns states/state-2-3.cns...OK
+  Loading cns states/override.cns...OK
+  Loading cns states/normals.cns...OK
+  Loading cns states/specials.cns...OK
+  Loading cns states/supers.cns...OK
+  Loading cns states/bingo.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files/command.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files/sprite.sff...OK
+  Loading anim files/animation.air...OK
+  Loading snd files/sound.snd...OK
+  Loading pals...OK
+  31978 expressions (10158 on trigger lines)
+Character SSJ_VegetaZ2.def loaded OK
+Loading character chars/BuuZ2/BuuZ2.def...
+  Loading info...OK
+  Loading cmd command set files\buu.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns config.txt...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cmd state entry files\buu.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\buu.sff...OK
+  Loading anim files\buu.air...OK
+  Loading snd files\buu.snd...OK
+  Loading pals...OK
+  30946 expressions (10621 on trigger lines)
+Character BuuZ2.def loaded OK
+Start of game loop
+End of game loop
+Total time: 30.38s
+Total frames: 1821 	Skipped frames: 908
+Avg game rate: 59.94
+Avg frame rate: 30.05
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Loading character chars/GokuZ2/GokuZ2.def...
+  Loading info...OK
+  Loading cmd command set files\goku.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files\goku.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\goku.sff...OK
+  Loading anim files\goku.air...OK
+  Loading snd files\goku-jap-en-bl.snd...OK
+  Loading pals...(1,1)(1,2)(1,3)(1,4)(1,5)(1,6)(1,7)(1,8)(1,9)(1,10)(1,11)(1,12)OK
+  SFF v1.01 palette hack engaged.
+  35833 expressions (11938 on trigger lines)
+Character GokuZ2.def loaded OK
+Start of game loop
+End of game loop
+Total time: 30.60s
+Total frames: 1834 	Skipped frames: 914
+Avg game rate: 59.93
+Avg frame rate: 30.07
+
+Reloading system sprite data...Reloading system background data...OK
+Playing storyboard press_start.def: scene
+attempting load and start...attempting load of data/press_start.mp3...success!
+starting BGM...
+Storyboard playback finished OK
+Finished playing storyboard press_start.def: scene
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+End of game loop
+Total time: 30.23s
+Total frames: 1812 	Skipped frames: 905
+Avg game rate: 59.94
+Avg frame rate: 30.00
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Loading character chars/VegettoZ2/VegettoZ2.def...
+  Loading info...OK
+  Loading cmd command set files\command.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files\command.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\vegetto.sff...OK
+  Loading anim files\vegetto.air...OK
+  Loading snd files\vegetto.snd...OK
+  Loading pals...OK
+  17942 expressions (5787 on trigger lines)
+Character VegettoZ2.def loaded OK
+Start of game loop
+End of game loop
+Total time: 32.41s
+Total frames: 1942 	Skipped frames: 968
+Avg game rate: 59.92
+Avg frame rate: 30.05
+
+Reloading system sprite data...Reloading system background data...OK
+Playing storyboard press_start.def: scene
+attempting load and start...attempting load of data/press_start.mp3...success!
+starting BGM...
+Storyboard playback finished OK
+Finished playing storyboard press_start.def: scene
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Loading character chars/VegetaZ2\Majin_VegetaZ2.def...
+  Loading info...OK
+  Loading cmd command set files\vegeta.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns m_config.txt...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cmd state entry files\vegeta.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\m_vegeta.sff...OK
+  Loading anim files\vegeta.air...OK
+  Loading snd files\vegeta.snd...OK
+  Loading pals...OK
+  69979 expressions (21344 on trigger lines)
+Character Majin_VegetaZ2.def loaded OK
+Loading character chars/VegetaZ2\Alt_VegetaZ2.def...
+  Loading info...OK
+  Loading cmd command set files\vegeta.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns alt_config.txt...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cmd state entry files\vegeta.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\alt_vegeta.sff...OK
+  Loading anim files\vegeta.air...OK
+  Loading snd files\vegeta.snd...OK
+  Loading pals...OK
+  69977 expressions (21344 on trigger lines)
+Character Alt_VegetaZ2.def loaded OK
+Start of game loop
+End of game loop
+Total time: 31.21s
+Total frames: 1871 	Skipped frames: 933
+Avg game rate: 59.95
+Avg frame rate: 30.05
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Loading character chars/GohanZ2/GohanZ2.def...
+  Loading info...OK
+  Loading cmd command set files\gohan.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns config.txt...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cmd state entry files\gohan.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\gohan.sff...OK
+  Loading anim files\gohan.air...OK
+  Loading snd files\gohan-jap-bl.snd...attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+OK
+  Loading pals...OK
+  27724 expressions (9524 on trigger lines)
+Character GohanZ2.def loaded OK
+Loading character chars/GotenksZ2/GotenksZ2.def...
+  Loading info...OK
+  Loading cmd command set files/gotenks.mfg...OK
+  Loading cns states/constants.cns...OK
+  Loading cns states/system.cns...OK
+  Loading cns states/helpers.cns...OK
+  Loading cns states/state-2-3.cns...OK
+  Loading cns states/override.cns...OK
+  Loading cns states/specials.cns...OK
+  Loading cns states/supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files/gotenks.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files/gotenks.sff...OK
+  Loading anim files/gotenks.air...OK
+  Loading snd files/gotenks.snd...OK
+  Loading pals...OK
+  44881 expressions (19229 on trigger lines)
+Character GotenksZ2.def loaded OK
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...attempting load of sound/stages/hdbz_chamber.mp3...success!
+OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+prebuffering BGM...
+End of game loop
+Total time: 156.62s
+Total frames: 9379 	Skipped frames: 4682
+Avg game rate: 59.88
+Avg frame rate: 29.99
+
+Reloading system sprite data...Reloading system background data...OK
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Loading character chars/TenShinHanZ2/TenShinHanZ2.def...
+  Loading info...OK
+  Loading cmd command set files\TenShinHan.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns states\normals.cns...OK
+  Loading cns states\specials.cns...OK
+  Loading cns states\supers.cns...OK
+  Loading cns states\Chiaotzu.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files\TenShinHan.mfg...OK
+  Loading common states states\common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\TenShinHan.sff...OK
+  Loading anim files\TenShinHan.air...OK
+  Loading snd files\TenShinHan.snd...attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+OK
+  Loading pals...OK
+  34025 expressions (11384 on trigger lines)
+Character TenShinHanZ2.def loaded OK
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+attempting load of sound/stages/hdbz_chamber.mp3...success!
+prebuffering BGM...
+End of game loop
+Total time: 68.92s
+Total frames: 4134 	Skipped frames: 2066
+Avg game rate: 59.98
+Avg frame rate: 30.01
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+Loading character chars/KrillinZ2/KrillinZ2.def...
+  Loading info...OK
+  Loading cmd command set files/command.mfg...OK
+  Loading cns states/constants.cns...OK
+  Loading cns states/helpers.cns...OK
+  Loading cns states/state-2-3.cns...OK
+  Loading cns states/override.cns...OK
+  Loading cns states/normals.cns...OK
+  Loading cns states/specials.cns...OK
+  Loading cns states/supers.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files/command.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files/sprite.sff...OK
+  Loading anim files/animation.air...OK
+  Loading snd files/sound.snd...OK
+  Loading pals...OK
+  27388 expressions (9364 on trigger lines)
+Character KrillinZ2.def loaded OK
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...attempting load of sound/chars/krillin.mp3...success!
+OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+prebuffering BGM...
+End of game loop
+Total time: 4.57s
+Total frames: 273 	Skipped frames: 135
+Avg game rate: 59.74
+Avg frame rate: 30.20
+
+Reloading system sprite data...Reloading system background data...OK
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Loading character chars/SSJ_VegetaZ2/SSJ_VegetaZ2.def...
+  Loading info...OK
+  Loading cmd command set files/command.mfg...OK
+  Loading cns states/constants.cns...OK
+  Loading cns states/helpers.cns...OK
+  Loading cns states/state-2-3.cns...OK
+  Loading cns states/override.cns...OK
+  Loading cns states/normals.cns...OK
+  Loading cns states/specials.cns...OK
+  Loading cns states/supers.cns...OK
+  Loading cns states/bingo.cns...OK
+  Loading cns config.txt...OK
+  Loading cmd state entry files/command.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files/sprite.sff...OK
+  Loading anim files/animation.air...OK
+  Loading snd files/sound.snd...OK
+  Loading pals...OK
+  31978 expressions (10158 on trigger lines)
+Character SSJ_VegetaZ2.def loaded OK
+attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+attempting load of sound/chars/ssj_goku.mp3...success!
+Start of game loop
+prebuffering BGM...
+End of game loop
+Total time: 18.60s
+Total frames: 1114 	Skipped frames: 556
+Avg game rate: 59.89
+Avg frame rate: 30.00
+
+Reloading system sprite data...Reloading system background data...OK
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Loading character chars/BabidiZ2/BabidiZ2.def...
+  Loading info...OK
+  Loading cmd command set files\Babidi.mfg...OK
+  Loading cns states\constants.cns...OK
+  Loading cns config.txt...OK
+  Loading cns states\state-2-3.cns...OK
+  Loading cns states\helpers.cns...OK
+  Loading cns states\override.cns...OK
+  Loading cns states\attacks.cns...OK
+  Loading cmd state entry files\Babidi.mfg...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff files\Babidi.sff...OK
+  Loading anim files\Babidi.air...OK
+  Loading snd files\Babidi.snd...OK
+  Loading pals...OK
+  16411 expressions (5668 on trigger lines)
+Character BabidiZ2.def loaded OK
+attempting load and start...attempting load of data/vs.mp3...success!
+starting BGM...
+Unloading system background data...sprite data...OK
+Initializing stage...
+  Loading BG...attempting load of sound/chars/buu.mp3...success!
+OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+prebuffering BGM...
+End of game loop
+Total time: 61.27s
+Total frames: 3675 	Skipped frames: 1836
+Avg game rate: 59.98
+Avg frame rate: 30.01
+
+Reloading system sprite data...Reloading system background data...OK
+attempting load and start...attempting load of data/select.mp3...success!
+starting BGM...
+Entering character select.
+attempting load and start...attempting load of data/menu.mp3...success!
+starting BGM...
+Returned from main loop
+Deinitializing...
+Frames      : 41637
+Time elapsed: 1047.150 sec
+ticks: 104715, tps: 100, start 161, end 104876
+
+Clearing player cache...OK
+Freeing character info...OK
+Freeing select screen...OK
+Freeing fight data...OK
+Freeing system data...OK
+Freeing game variables...OK
+Deinitializing input...pad...keyboard...OK
+Removing callbacks...OK
+Deintializing timer...OK
+Deinitializing graphics...OK
+Deinitializing BGM...Cleaning up mixer callback...unhooking mixer callback...
+
+Mixer callback was entered 22545 times
+Mixer callback timing stats (last 22545 calls):
+	15.000000 median, 15.430827 avg, 4.465699 sample std. dev.
+Top 10 slowest times:	78 (1), 69 (1), 67 (1), 65 (1), 63 (2), 62 (1), 61 (1), 60 (1), 57 (1), 56 (1)
+Top 10 fastest times:	3 (4), 4 (26), 5 (63), 6 (124), 7 (144), 8 (397), 9 (663), 10 (1233), 11 (1182), 12 (1389)
+OK
+Deinitializing sound...OK
+Successful program termination.
+
+Log file successfully closed.

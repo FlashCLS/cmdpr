@@ -1,0 +1,193 @@
+Added NohBoard app for keyboard display alongside HDBZ buttons made by Sironix
+
+--all chars got a failsafe fix for wall break ko--
+
+GOTENKS
+===============================
+- reduced meter gain from SuperMan if done in a combo
+- launch height from SuperMan is lowered each rep
+- DMG to ki blast and superman goes down by 1 HP each rep + scaling with min dmg still 7
+- EX Ki blast cannot be done but 4 times in a single combo before it causes KD compared to 5
+- fixed issue with portal allowing a finisher in simul
+- made a failsafe for ssj3 to die correctly
+
+KRILLIN
+===============================
+- adjusted RocketMan
+- removed limiter sharing from Back flip kick and turtle flip kick
+- EX turtle flip can be controlled with B,F,U,and D
+- removed issue with curved ki blast going off screen and being destroyed
+- increased dmg for finishers
+- Emo exit sped up and life refill is instant
+- EX Air Jet KHH is full projectile invuln. Air version is full invuln to ground throws and attacks while ground version is to air attacks and throws
+- EX Wild sense added and can be done outside of courage mode
+- Flip Kick follow up from Wild Sense will now hit opponents in hit state better
+- can hold a different kick in wild sense to get a different follow up
+- Orin Combo can now be used during grounded hypers (except lvl3) and KHH can be cancelled into air KHH. It is now full invuln until he stops attacking, no longer adds to the dampener during it's own hits, and can focus break on first hit
+- can now attack during grounded fwd dash
+- loses emo on loss
+- gained new color separation palettes
+- CS fixes
+
+SSJ VEGETA
+===============================
+- fixed issue with MP rekka start>ender causing a bug on death
+
+GOHAN
+===============================
+- fixed a bug with certain moves removing clones/chiaotzu 
+
+Masenko:
+- added new dissipate FX
+
+Hurricane Kick:
+- limiter now only triggers on hit
+
+Rising Hurricane Kick:
+- reduced startup by 2f (8f > 6f)
+- reduced hurtbox height on startup and active frames
+
+Ki Blast:
+- EX ki blast 1 now travels slightly less than full screen
+- EX ki blast 2 now spawns farther forward to match EX ki blast 1
+- widened hit box of EX ki blast 2 to avoid whiffing vs thin characters
+- EX ki blast 2 now travels slightly farther than EX ki blast 1
+- reduced EX ki blast 2 block stun by 3f (+2 > -1)
+
+Zetto Counter:
+- reduced startup on kick zetto by 2f (10f > 8f)
+
+Normals:
+- increased range on focus attack
+- added arm hurtbox to focus attack
+
+
+General:
+- fixed an issue where Gohan's Hyper Dimension winpose would end early
+
+Gekiretsu Ranbu:
+- added cinematic check to finishers
+- finishers now work properly when Piccolo clones are on screen
+
+Hurricane Kick:
+- on hit, Gohan can act out of air tatsu 5f earlier
+
+Normals:
+- focus attack now properly stuns aerial opponents
+
+
+March/1/2021
+-------------------------------------------------
+General:
+- added failsafe to wall break to prevent soft locks
+- added player width to ground kick zetto counter
+- changed P zetto counter anim, adjusted hurtboxes accordingly
+
+Gekiretsu Ranbu:
+- P2 is invincible while falling from LVL0 version
+
+Thunder Flurry Kick:
+- updated last hit SFX (both versions)
+- increased screen shake on final hit (both versions)
+- adjusted hit spark placement on final hit (LVL1)
+- opponent is now sent to custom state after hit stop is finished (both versions)
+
+Hurricane Kick:
+- opponent is now sent to custom state after hit stop is finished
+
+Rising Hurricane Kick:
+- fixed an issue where the limiter would always max out on hit
+
+
+February/25/2021
+-------------------------------------------------
+General:
+- changed guard stun and guard end hurtboxes to match guard start
+
+Thunder Flurry Kick:
+- super KO background plays on kill (both versions)
+
+Hurricane Kick:
+- no longer adds JP
+- reduced launch height of M and H versions
+- Gohan is now actionable when falling if Hurricane Kick hits
+- added 1-use limiter
+- 1st use now sends opponent into a twist KO animation
+- 2nd use is now techable
+- added player width on EX version
+- reduced edge width on EX version
+- increase launch x vel on EX version
+- opponent must be closer to the wall to bounce off when hit by EX version
+
+Rising Hurricane Kick:
+- fixed issue where the move would add JP when launching
+- reduced launch height of M version
+- added 2-use limiter (3rd use is techable)
+
+Normals:
+- moved damage dampening to end of throws so it doesn't affect throw damage
+
+SATAN
+===============================
+    -No longer able to cancel into Satan Booster from normal attacks
+    -No longer able to cancel into Air Taunt from sHK
+
+BASE GOKU
+===============================
+- updated dizzy stars
+- added missing Satan animation standards
+- turtle flip > dive kick no longer hits otg
+- blur kick height reduced for opponent
+- Added max height that he can stay afloat at and made a delay between when he can air charge>stop>aircharge
+- Turtle Flip > Grab can be ducked
+
+PICCOLO
+===============================
+- applied the rejump KD limiter to the hop and now Mash MK no longer removes said limiter
+- fixed clsn issue with SBC
+- added more fixes to clones not leaving correctly
+- updated Finisher LVL1
+- fixed a bug where canceling into SBC while in emo cost no meter and would be a higher level
+- fixed a bug where jump start had full invuln
+
+FREEZA
+===============================
+- added juggle points to torture gun
+- fixed issue with Teleport dash backwards jump
+- fixed issue with emo run limited
+- full FA no longer hits twice
+- Made CounterPort active faster and swapped the auto attack from emo to normal 
+
+TIEN
+===============================
+- fixed issue with get up
+- gained new color separation palettes
+
+BUU
+===============================
+- no longer has 3 frame invuln and 12 frame throw invuln after getup
+- gains armor on idle states for lvl0 emo and emo power charge starts building meter 14 ticks sooner (idle is every non attack/non hit state)
+
+BABIDI
+===============================
+- no longer has 3 frame invuln and 12 frame throw invuln after getup
+- fixed bug with being thrown locking the screen
+
+Vegeta
+===============================
+- no longer has 3 frame invuln and 12 frame throw invuln after getup
+- Majin emo exit no longer unblockable and fixed a bug with it's dizzy that made him move with the opponent 
+- Vegeta dmg reduced on EX Ki blast and builds emo 25% slower
+
+Vegetto
+===============================
+- fixed bug locking up Briefs when using his 8-ball hyper
+
+SSJ Goku
+===============================
+- decreased min dmg of DP
+- DP adds more dampener points on counter hit
+
+Android  18
+===============================
+- fixed a bug where her finishers would break while on King Kai stage (normal)

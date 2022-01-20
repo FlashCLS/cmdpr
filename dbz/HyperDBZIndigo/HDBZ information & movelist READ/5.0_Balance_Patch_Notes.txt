@@ -1,0 +1,769 @@
+
+UNIVERSAL SYSTEM CHANGES
+-------------------------------------------------------------------
+* jumping normals are no longer overheads while moving upwards
+* power charge timing adjusted to match animation
+* air dash back no longer affected by holding back or forward
+* lvl2 VFX updated
+* lvl2 and 3 SFX updated
+* focus attack now dizzies on full charge
+* zetto counters are now available during all block stun
+* blocking is now available while jumping and dashing forward
+* JP and Funimation dub voice lines removed
+* dash shortcut added with 2P
+* wall bounces now have a unique animation on kill
+
+
+KRILLIN
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+- increased standing and jumping hurt boxes
+
+NORMALS
+-------------------------------------------------------------------
+- target combo HK no longer whiffs after a jHK
+- increased size of 2nd hit of MP
+
+KI BLAST
+-------------------------------------------------------------------
+- L and M versions are now the old M and H versions
+- new H version travels forward and arcs upwards slightly
+- no longer knocks down aerial opponents
+- no longer switches sides if performed as the opponent crosses over Krillin
+- limit of 1 use of trick ki blast 1 at a time. He can still rekka into them, which has much longer recovery
+- trick ki blasts will disappear if Krillin is hit before they leave the screen
+
+SOLAR FLARE
+-------------------------------------------------------------------
+- increased startup and recovery
+
+TURTLE FLIP
+-------------------------------------------------------------------
+- throw launches higher
+
+ROCKET KAMEHAMEHA
+-------------------------------------------------------------------
+- now cancelable into Chou Kamehameha
+
+SCATTER SHOT
+-------------------------------------------------------------------
+- reduced damage
+- reduces power charge speed when active
+
+
+EIGHTEEN
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- cHP limited to once per combo
+- jumping heavies now knock down 
+- reduced block stun on run HK
+- run HK is cancelable to graceful revolution on hit
+- jMs now knock down when chained from Ls
+- can now combo into air throw
+
+BLITZ DEADEND
+-------------------------------------------------------------------
+- can no longer cancel into the same version of itself (L > L, etc)
+- no longer resets grounded normal limiter
+
+BALISTIC KISS
+-------------------------------------------------------------------
+- no longer whiffs on cornered opponents
+- now teleports to a different height depending on the strength used
+
+POWER BREAKER
+-------------------------------------------------------------------
+- reduced damage
+
+OVERDRIVE DEADLY BREAKER
+-------------------------------------------------------------------
+- now hits OTG
+
+COLD MODE
+-------------------------------------------------------------------
+- accel dance now removes all combo limiters while it is active
+
+
+TENSHINHAN
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+- Tien is no longer invincible for longer than normal on wakeup
+- Tien's juggle fall speed is no longer higher than the rest of the cast
+- increased width of head hurtbox while crouching
+- P zetto counter no longer deals damage, and is vulnerable during recovery
+
+NORMALS
+-------------------------------------------------------------------
+- reduced hitbox size and increase hurtbox size on all normals
+- reduced hit stun of jMP
+- recovery added to MP and HP
+- jMK is no longer an overhead
+- focus attack startup increased to 8f from 1f
+- minimum damage for all normals
+
+CHIAOTZU
+-------------------------------------------------------------------
+- all attacks now lock Tien in an animation when done in neutral
+- meter cost for all moves reduced to 500
+- shield startup increased
+- telekinesis stun time reduced significantly
+- dodonpa block stun reduced
+
+TALONS
+-------------------------------------------------------------------
+- talons 1 is no longer plus on block
+- 1st hit is no longer overhead
+- reduced meter gain
+
+KIKOHO
+-------------------------------------------------------------------
+- increased recovery
+- follow ups now require 1000 meter up from 500
+
+
+GOHAN
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+- health increased to 1000
+- now has two air dashes at all times
+- all non-horizontal air dashes moved to unleashed mode
+
+NORMALS
+-------------------------------------------------------------------
+- adjusted frame advantage on block across the board. Ls are more plus, Hs are less safe
+- adjusted hit pause on HKx2 to look better
+- adjusted hit pause on run MK to look better and increased hit advantage for easier links
+- jMPx2 now has a little "hop" and no longer reduces gravity
+- jMPx2 is no longer an overhead
+- jD+MP now adds 1 JP per hit
+- jMP now active much earlier to match animation; reduced total active frames by 2f
+
+Omni Kicks
+-------------------------------------------------------------------
+- now cancelable into any available air dash on hit
+- increased hitbox on down version
+- decreased hitbox/hurtbox ratio on forward version
+- no longer increases damage in unleashed mode
+- removed screen FX on hit in unleashed mode
+- added new hit SFX
+- F, UF, and U versions no longer break when the opponent is too close to the ground
+- removed hard limiter on U and UF versions
+- all versions build 2 JP per hit
+
+KI BLAST
+-------------------------------------------------------------------
+- no longer travels full screen
+- increased hitbox size for all versions
+- EX version now launches for a combo
+
+HURRICANE KICK
+-------------------------------------------------------------------
+- added air version
+	- moves upwards less than grounded version
+	- reduced landing lag vs grounded version on contact (only on hit for EX version)
+- reduced damage for all versions
+- now adds 2 JP per use
+- removed invinciblility on all versions
+- reduced block stun on all versions
+- can no longer cancel recovery of L version into rising hurricane kick
+- added width to EX version on hit so it works properly anywhere on screen
+
+DIVE KICK FLURRY
+-------------------------------------------------------------------
+- significantly reduced damage of M, H, and EX versions
+- increased damage of L version slightly
+- changed animation of final hit
+- landing recovery of EX version no longer air dash cancelable
+- EX version now bounces much lower on hit
+
+RISING HURRICANE KICK
+-------------------------------------------------------------------
+- adjusted hit stop on all versions to look nicer	
+- reduced damage for all versions
+- removed limiter on M version
+- reduced launch height on M version
+- M version no longer adds extra damage scaling compared to other versions
+- all versions now super cancelable into Thunder Flurry Kick
+- EX version no longer launches for a combo
+- EX version is now invincible until slightly before the 1st hit
+
+THUNDER FLURRY KICK (NEW MOVE!)
+-------------------------------------------------------------------
+- replaces super hurricane kick
+- locks opponent in place and sends them flying on hit
+
+SUPER THUNDER FLURRY KICK (NEW MOVE!)
+-------------------------------------------------------------------
+- significantly more damaging compared to LVL1 version
+- carries opponent horizontally and bounces them off the ground
+- bounce is independent of normal ground bounce
+
+MASENKO:
+-------------------------------------------------------------------
+- swapped unleashed and normal versions, adjusted damage accordingly
+- added new VFX for normal version
+- increased hitbox of normal version to match animation
+- all versions now invincible on startup
+
+SOARING DRAGON STRIKE:
+-------------------------------------------------------------------
+- can now cancel into any available air dash on hit
+
+UNLEASHED MODE:
+-------------------------------------------------------------------
+- Gohan can now air dash in 8 directions
+- no longer gives reduced-cost EX moves or supers
+- using a super or EX move when the unleashed gauge is 0 no longer exits the mode
+- now has electric FX similar to Gotenks
+- air dashes build unleashed gauge; cancelling them from omni kicks builds more
+- omni kicks build significantly less unleashed gauge
+- aura charge fills unleashed gauge slower than before and also charges meter
+
+
+SATAN
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+- air dash always goes upwards first 
+- punch zetto counter knocks down
+
+NORMALS
+-------------------------------------------------------------------
+- can chain MK to cHK
+- can cancel run LP to MK
+- jD+HK knocks down
+
+DYNAMITE KICK
+-------------------------------------------------------------------
+- no longer hits overhead
+- now air blockable
+- only air H version can stick to walls
+
+CAPSULE SURPRISE
+-------------------------------------------------------------------
+- can dash cancel held capsules
+- held capsules hit overhead
+- button strength now decides throw distance
+
+ROLLING MINE
+-------------------------------------------------------------------
+- limited mines to 1 per combo
+- increased damage
+- reduced minimum damage
+
+SATAN STANCE
+-------------------------------------------------------------------
+- always plays the same anim, even in Champion Mode
+- now dodges non-super projectiles
+
+WIMBLY NIMBLY
+-------------------------------------------------------------------
+- added invincibility to startup
+- manual detach speed increased
+- can hold forward to keep rolling from roll follow up
+- can drop a mine from roll follow up by pressing LP
+- cling time increased
+- D+K follow up now does chip damage
+- D+K follow up knocks down
+
+CHAMPION MODE
+-------------------------------------------------------------------
+- increases allowed mines to 2 per combo
+
+
+GOTENKS
+===================================================================
+
+SYSTEM CHANGES:
+-------------------------------------------------------------------
+- health decreased to 800
+- punch zetto no longer gives a ghost
+- both standing and crouching hurtboxes increased
+
+NORMALS
+-------------------------------------------------------------------
+- LP and cLP startup increased by 1f
+- MP startup reduced
+- removed lower body invuln from emo cMP
+- charging HP is now a counter hit state
+- HK no longer has D+HK follow up
+- dash HP now only launches once per combo
+- dash HP only gives full launch if used as a punish or in a combo
+
+HERO POSE
+-------------------------------------------------------------------
+- motion changed to QCB+P
+- inputs swapped: punches perform follow ups, kicks cancel the stance
+- butt bash is now cancelable into die die missile
+- butt bash recovers sooner on hit
+- ballerina kicks no longer breaks fireballs
+- can only act out of superman if it hits
+- can cancel into SSJ2 or SSJ3 from hero pose
+- now takes 16f to stance cancel if the opponent is blocking
+
+AIR KI BLAST
+-------------------------------------------------------------------
+- hit stun and block stun of all versions reduced dramatically
+- increased travel speed of L version slightly
+- increased recovery of ki blast 1 by 3f
+- can no longer be cancelled from whiffed normals
+
+HEADBUTT
+-------------------------------------------------------------------
+- can no longer cancel into butt bash
+- recovers 4f slower on hit
+- is no longer untechable on hit
+- can only perform one headbutt per jump
+
+INSULT
+-------------------------------------------------------------------
+- reduced block advantage for all versions significantly
+
+HOMING GHOST
+-------------------------------------------------------------------
+- motion changed to [b],f+K
+- can no longer be performed during other actions
+- Gotenks is now locked in place until the animation completes
+- reduced block stun slightly
+- can now send out more ghosts by repeatedly pressing K
+- can no longer perform power charge while the opponent is in hit stun from ghosts
+
+AIR GHOST (NEW MOVE!)
+-------------------------------------------------------------------
+- Gotenks fires a ghost towards the ground similarly to his ki blast
+- significantly increased block stun compared to ki blast
+
+HEADCRASH GHOST
+-------------------------------------------------------------------
+- input changed to [d],u+K
+- strength delays the headbutt
+- block stun increased
+
+GHOST MINE
+-------------------------------------------------------------------
+- motion changed to QCB+K
+- Gotenks is no longer invincible when standing near ghost mine
+- reduced proximity guard range
+- mines will move away from guarding opponents
+- reduced hitbox size and increased hurtbox size of mines
+
+GALACTIC DONUTS
+-------------------------------------------------------------------
+- reduced block stun
+
+DIE DIE MISSILES
+-------------------------------------------------------------------
+- reduced block stun
+
+SSJ3
+-------------------------------------------------------------------
+- increased end lag on all attacks
+- D+any button now perfoms specials
+- added D+LP, an anti-air ki burst
+
+SSJ2
+-------------------------------------------------------------------
+- activation frame advantage on block reduced
+- health increase reduced (1360 total > 1000 total)
+
+
+SSJ GOKU
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- HKx3 now wall bounces on counter hit
+
+KI BLAST
+-------------------------------------------------------------------
+- minimum damage increased (7 > 10)
+
+INSTANT TRANSMISSION
+-------------------------------------------------------------------
+- removed old D,D inputs
+- only 1 IT allowed per combo out of Justice Mode
+- IT on block now requires 1000 meter outside of Justice Mode
+
+SONIC RUSH
+-------------------------------------------------------------------
+- increased hitbox size for both versions
+- lvl2 version causes a ground bounce on counter hit
+- increased damage
+
+CHOU KAMEHAMEHA
+-------------------------------------------------------------------
+- added lvl3 version
+- no longer unblockable at max charge
+
+HYPER RUSH
+-------------------------------------------------------------------
+- reduced damage of lvl1 and 2 finishers
+
+JUSTICE MODE
+-------------------------------------------------------------------
+- now easier to get to lvl3
+- exit move added
+- ITs per combo reduced to 2
+- teleport attacks fall faster
+- increased startup of cross up teleport attack when performed in neutral
+
+
+FREEZA
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- jHP damage reduced
+- reduced JP on cHK
+
+DEATH WAVE
+-------------------------------------------------------------------
+- reduced block stun
+- lowered startup on ground version
+- increased startup on air version
+
+HEAD CHARGE
+-------------------------------------------------------------------
+- increased landing recovery for all versions
+- added limit of 2 use per each version per combo
+
+DANCING ELBOW
+-------------------------------------------------------------------
+- increased hitstun
+
+COUNTERPORT
+-------------------------------------------------------------------
+- increased hitbox
+
+DEATH SAW
+-------------------------------------------------------------------
+- motion changed to QCB,F+P
+
+SADISM MODE
+-------------------------------------------------------------------
+- can now perform head charge in sadism mode
+- changed torture gun input to RDP
+- reduced damage on torture gun
+- torture gun now continued by holding the punch button rather than mashing
+- decreased recovery on dash teleports
+- teleports can be cancelled from normals
+- dancing elbow can be performed in sadism mode
+
+
+GOKU
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+* jumping normals are no longer overheads while moving upwards
+* power charge timing adjusted to match animation
+* air dash back no longer affected by holding back or forward
+* lvl2 VFX updated
+* lvl2 and 3 SFX updated
+* focus attack now dizzies on full charge
+* zetto counters are now available during all block stun
+* zetto counters can no longer kill
+* blocking is now available while jumping and dashing forward
+* JP and Funimation dub voice lines removed
+* dash shortcut added with 2P
+* wall bounces now have a unique animation on kill
+- replaced old back throw
+
+NORMALS
+-------------------------------------------------------------------
+- cHP is special and super cancelable
+- cHK launches higher and pulls the opponent inwards
+- HK hit stun increased
+- run HK changes
+	- reduced startup
+	- 1st hit of run HK is no longer an overhead
+	- no longer cancelable 
+	- now untechable on hit
+	- reduced block stun and hit stun on 2nd hit
+	- active frames on 2nd hit increased by 2f
+	- now adds 0 JP on hit
+- reverse boomerang kick can now be performed while in front of the opponent
+
+HURRICANE KICK
+-------------------------------------------------------------------
+- removed 5-use limiter in combos
+- now adds 2 JP per use
+- damage reduced
+- launch height reduced
+- all versions knock down grounded opponents
+- follow up motions changed to f+K and b+K
+- can cancel to boomerang kick on whiff
+- can cancel to blur kick from air version
+- increased launch height of blur kick
+- follow ups add 1 JP per use (from 0)
+
+KI BLAST
+-------------------------------------------------------------------
+- reduced recovery on ki blast 1 for all versions
+- reduced block stun for all versions
+- M and H versions now lob the ki blast in an arc 
+
+DRAGON DASH (NEW MOVE!)
+-------------------------------------------------------------------
+- replaces dragon fist
+- Noku performs a run with 3 follow ups with the punch buttons and a run stop with the kick button
+- dragon tail is a quick low follow up that allows for OTG combos after
+- dragon fist is an overhead that allows for links after, but forces crouch on hit and whiffs on crouchers
+- dragon upper is an invincible uppercut that launches both Goku and the opponent high into the air
+- EX dragon dash can be used to cross up the opponent, but can be cancelled on either sideend
+
+TURTLE FLIP (NEW MOVE!)
+-------------------------------------------------------------------
+- a command jump similar to Krillin's with 3 follow ups
+- P performs a grab that does good damage and is good for ending combos
+- K is an upwards kick that launches the opponent much higher up, and is untechable
+- D+K is a dive kick follow up that has slightly better frame data than slash down kick
+
+SNAP KICK (NEW MOVE!)
+-------------------------------------------------------------------
+- an upwards kick that can allow for combos in juggles
+- MK, HK, and EX versions have invincibility
+- has a follow up with D+K
+
+SLASH DOWN KICK
+-------------------------------------------------------------------
+- removed height limit
+- all versions keep more vertical velocity on startup
+- increased launch height
+- added OTG limit to prevent infinites
+- EX version knocks down after more than 1 use in a combo
+- EX version is now the same speed as the normal version
+
+KAIOKEN (NEW MOVE!)
+-------------------------------------------------------------------
+- Goku can spend some of his health to cancel his special moves into each other
+- cancels can also be done from attacks that aren't normally cancelable, like run HK
+- startup, install time, and health cost of cancels changes depending on amount of meter spent on install
+- cancels can kill Goku as well as his oppponent
+
+KAMEHAMEHA
+-------------------------------------------------------------------
+- damage increased
+- minimum damage increased
+- chip damage increased
+- launch height increased on up version
+
+KAIOKEN DASH
+-------------------------------------------------------------------
+- startup reduced
+- increased dash speed
+- added invincibility
+- only hits once on block
+- reduced block stun
+
+
+PICCOLO
+===================================================================
+
+SYSTEM
+-------------------------------------------------------------------
+* jumping normals are no longer overheads while moving upwards
+* power charge timing adjusted to match animation
+* air dash back no longer affected by holding back or forward
+* lvl2 VFX updated
+* lvl2 and 3 SFX updated
+* focus attack now dizzies on full charge
+* zetto counters are now available during all block stun
+* zetto counters can no longer kill
+* blocking is now available while jumping and dashing forward
+* JP and Funimation dub voice lines removed
+* dash shortcut added with 2P
+* wall bounces now have a unique animation on kill
+- health reduced to 1000
+- drastically increased walk and run speed
+- can now perform a short hop with D+KK	
+- K zetto counter no longer allows for combos after
+- removed U+K zetto counter
+
+NORMALS
+-------------------------------------------------------------------
+- new cHK
+- old cHK moved to DF+HK
+- B+HP changed to F+HP
+- reduced block stun of most normals
+- removed dash cancel from HPx2
+- B+HK changed to close HK
+- HPx2 is now delayable
+- increased vertical hitbox size on cMP
+
+MYSTIC HARPOON
+-------------------------------------------------------------------
+- motion changed to [B],F+P
+- now has a one-use limiter on the grab. Piccolo will perform a punch on the 2nd use
+
+MYSTIC AIR HARPOON (NEW MOVE!)
+-------------------------------------------------------------------
+- piccolo stretches his arm into the air and slams the opponent into the ground
+- EX version performs his old mental shock which allows for combos after
+
+CARNAGE BLITZ
+-------------------------------------------------------------------
+- motion changed to [B],F+K
+- follow-ups removed
+
+RED CARNAGE (NEW MOVE!)
+-------------------------------------------------------------------
+- similar to normal carnage blitz, but it's a chargeable zonk move
+- holding more buttons will charge faster, but they must be the same type (P or K)
+- there are 4 levels, with the final 2 being unblockable and the final level causing a wall bounce
+
+DEMON WAVE
+-------------------------------------------------------------------
+- significantly increased block stun for all versions
+
+HALO STOMP
+-------------------------------------------------------------------
+- now hits overhead
+
+SPECIAL BEAM CANNON
+-------------------------------------------------------------------
+- charging no longer takes extra meter
+
+DEMON THUNDER LEGS (NEW MOVE!)
+-------------------------------------------------------------------
+- Piccolo kicks high into the air and launches the opponent away
+
+DARK LORD'S ARMY
+-------------------------------------------------------------------
+- removed AI versions
+- LP version attacks at the same time as Piccolo, increasing his damage output significantly. Has the longest timer
+- MP clone delays his attacks, which allows for many new combo options. Has the shortest timer
+- HP clone runs behind the opponent and locks them down
+
+HELLZONE GRENADE
+-------------------------------------------------------------------
+- hellzone balls follow the screen
+- piccolo no longer auto-fires hellzone after a certain amount of time
+
+DEMON MODE
+-------------------------------------------------------------------
+- dead end now acts as an exit move for demon mode
+- trap blasts are now air blockable
+- trap blasts follow the screen similarly to hellzone grenade
+
+
+VEGETA
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- Changed hit properties in S.LP, S.LK, S.SK, C.LP, C.MP, C.MK
+- close HP changed to B+HP
+- B+HP is special and super cancelable
+- decreased block stun of run HK
+- run HK can no longer cancel to HK
+- run HK can now cancel to ki blast
+- decreased hit stun on jMP
+
+KI BLAST
+-------------------------------------------------------------------
+- now causes knockdown vs aerial opponents
+
+MACHINEGUN TANTRUM
+-------------------------------------------------------------------
+- only cancels into run HK on hit
+- both EX versions are now locked behind Rage Mode
+
+RISING KNEE
+-------------------------------------------------------------------
+- reduced startup by 3f 
+
+WOLVERINE FLIP
+-------------------------------------------------------------------
+- removed grab follow up
+- now only projectile invincible
+
+FINAL FLASH
+-------------------------------------------------------------------
+- can cancel from specials
+
+RAGE MODE
+-------------------------------------------------------------------
+- fireball 1 will now start at lvl2
+- added new lvl4 fireball
+- added power charge to Rage Mode
+- no longer gives free EX moves and supers
+- EX ki blast and MGT cost 0 meter, but drain the rage buffer
+- can do zetto counters during Rage Mode
+
+
+BUU
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- increased pushback on F+MK and F+MP
+- F+MK hit stun reduced
+
+MANIAC BALL
+-------------------------------------------------------------------
+- no longer unblockable at point blank range
+
+PAIN TRAIN
+-------------------------------------------------------------------
+- Buu will now immediately bounce off the wall if it whiffs
+
+COUNTER BREAKER
+-------------------------------------------------------------------
+- replaces chaos breaker
+- now acts as a counter
+- removed super armor
+
+KILL YOU!
+-------------------------------------------------------------------
+- removed invincibility
+
+MADMAN'S BALL
+-------------------------------------------------------------------
+- increased recovery
+
+MELTDOWN
+-------------------------------------------------------------------
+- added D+3K motion
+- removed super armor
+
+HUNGER MODE
+-------------------------------------------------------------------
+- now gains armor at lvl1
+- armor is only 1 hit, levels reduce the recharge time for armor to come back up
+
+
+MAJIN VEGETA
+===================================================================
+
+NORMALS
+-------------------------------------------------------------------
+- Changed hit properties in S.LP, S.LK, S.SK, C.LP, C.MP, C.MK
+- decreased block stun of run HK
+- run HK can no longer cancel to HK
+- decreased hit stun on jMP
+- added new HK
+- old HK moved to B+HK
+- HK is special and super cancelable
+
+ROYAL FIST
+-------------------------------------------------------------------
+- adjusted width to work better in juggles
+
+PHOTON BOMB
+-------------------------------------------------------------------
+- air version explosions will now insta-kill Piccolo's clones
+
+SANITY MODE
+-------------------------------------------------------------------
+- can power charge during Sanity Mode
+- Vegeta can't be pushed during aura burst's dizzy anim

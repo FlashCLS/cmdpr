@@ -1,0 +1,63 @@
+
+PILAF
+===============================
+- mai gunner no longer causes the opponent to block after the duration of the move is over
+
+KRILLIN
+===============================
+- fixed jHP hitting twice
+- changed command for back hop to B+2K
+- Increased hitbox size on MP
+- decreased startup on MK
+- jHP can no longer whiff while Krillin is ascending
+
+EIGHTEEN
+===============================
+- fixed issue with Power Breaker causing the super BG to stay on screen
+
+GOHAN
+===============================
+- increased hit stop for meterless Rising Hurricane Kick
+- removed invincibility on L and H tatsu
+- reduced block stun on air L tatsu
+- 2nd and 3rd hits of M and H tatsu are now universally duckable
+- Rising Hurricane Kick no longer costs JP
+
+SATAN
+===============================
+- Satan can no longer infinitely air dash cancel air taunt
+- added new jetpack dash
+- kick zetto counter no longer kills in champ mode
+
+VEGITTO
+===============================
+- fixed bug where Vegitto would be permanently sent in the direction his opponent's attack sent him
+
+SSJ Goku
+===============================
+- fix sfx bug when being thrown from Chou Kamehameha
+- Chou Kamehameha ball fx properly remove themselves when Soku is hit out of it
+
+SSJ Vegeta
+===============================
+- increased hurtbox size on air hit states (5030 & 5035)
+
+BASE GOKU
+===============================
+- Goku now loses Kaioken when he performs Kaioken Assault
+
+PICCOLO
+===============================
+- clone timer reverted to 5.0a
+- adjusted Special Beam Cannon hitbox to match animation
+- more clone bug fixes
+
+BASE/MAJIN VEGETA
+===============================
+- increased hurtbox size on air get hits to match SSJ Vegeta
+
+BABIDI
+===============================
+- reduced active time on Dabura ki blasts
+- Fixed Camera locking against Babidi
+- Fixed Reverse Teleport not moving backwards

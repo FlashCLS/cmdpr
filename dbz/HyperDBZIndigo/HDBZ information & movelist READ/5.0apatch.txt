@@ -1,0 +1,349 @@
+5.0a patch update log
+=========================================
+
+Babidi
+------------------------
+Beta 10 (20201231) - Farewell 2020 edition
+- Fixed projectile reflection animation
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter folowups will now result in minimal damage
+
+Buu
+---------------------------
+Beta 17 (20201231) - Farewell 2020 edition
+- Tweaked Clsn1 box in throws
+- Fixed crossup issues in Maniac Ball on block
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Fixed Focus Attack bug allowing cancel on whiff from P2 side
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter folowups will now result in minimal damage
+
+18
+-----------------------------
+Beta 14 (20201231) - Farewell 2020 edition
+- Changed s.MKx3 sprite alignment for a less realistic flow
+- Air Throw will no longer grab enemies on block
+- Added damage dampening to Air Grab
+- Fixed Graceful Revolution limiter
+- Changed statetype in Blitz Deadend
+- Zetto Counter grab will no longer be performed against airborne enemies, defaulting to kick version instead
+- Prevented Power Breaker Lv1>Power Breaker Lv1
+- Fixed Finisher Lv3 when playing under non-standard screen resolutions
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Fixed Focus Attack bug allowing cancel on whiff from P2 side
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter folowups will now result in minimal damage
+
+Freeza
+---------------------------------
+Beta 23 (20201231) - Farewell 2020 edition
+- Fixed sprite order in twist animation
+- Tweaked JP usage in some moves
+- Fixed bug with infinite ground bounces on j.HK
+- Fixed Head Charge limiter
+- Air Head Charge will not launch enemies on OTG
+- Removed NotHitBy from Death Saw
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Fixed Focus Attack bug allowing cancel on whiff from P2 side
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter folowups will now result in minimal damage
+
+Gohan
+----------------------------------
+December/2/2020
+System:
+- corrected anim in anti-fuzzy explod
+Masenko:
+- reduced minimum damage (non-unleashed)
+- reduced damage of upwards version to match straight version (non-unleashed)
+Ki Blast:
+- masenko cancel now requres correct amount of meter
+- increased width for 2nd part of EX version
+Normals:
+- MKx2 hit stun increased slightly
+- jMPx2 and jMKx2 no longer hit overhead
+- jD+MP damage reduced to match jMP (29 > 26)
+System:
+- added new focus attack limiter to avoid infinites
+- AI should no longer be able to over-charge Unleashed meter (2nd time's the charm?)
+- reduced health back to 900
+- Gohan should no longer be invincible to attacks on jump startup
+- Gohan can no longer dash cancel FA on whiff when on P2 side
+Normals:
+- all ground target combos add JP only on the 1st hit
+- jHP hitbox pulled upwards; forward disjoint slightly reduced
+
+Goku
+------------------------------
+January 5 2021
+General: -Zetto counters max out damage scaling
+         -Throws add 2 points to damage scaling
+         -Kaioken Auras made fully opaque
+Snap Kick: -Extended window for up input
+General: -Fixed Focus attack dash bug
+         -Fixed Shenron being invisible during the intro
+         -Fixed groundbounce animation bug
+Cr.hp: -Made techable when not done in a combo
+Kaioken: -Added afterimages
+
+Gotenks
+--------------------------------
+5.0Patch
+-more recovery after headbutt connects
+-added Focus Limiter 2
+-fixed issue with facing right FADC
+-increased recovery after 2nd air ki blast 
+-added invincibility to EX headbutt as it rises
+-sLP chains into sMP
+-increased life to 850
+-adjusted defense code for emo
+-fixed bug with charging
+-removed limitation from charging power with ghost fired
+-can cancel into ghosts from basics
+-added destroyed helper protection
+-adds 23 dampener points after zetto hits
+-adds 2 dampener points after throw hits
+
+Krillin
+------------------------------------
+5.0PATCH
+-fixed issue with finisher 0 grabbing a sprite that isn't universal
+-added Focus Limiter2
+-improved (but not fixed) an issue with Destructo Disc causing more dmg if it hits a helper and opponent at the same time :( I will return to this!
+-lowered how much ai guards
+-emo back dash no longer gives power
+-fixed issue with focus creating helpers that don't die
+-fixed issue with Tsuki as it is guarded on way back
+-added destroyed helper protection
+-adds 23 dampener points after zetto hits
+-adds 2 dampener points after throw hits
+
+Piccolo
+-------------------------------------
+Jan/6/2021
+-Removed -1 Jp on double claw
+-Added new charge command
+-Remove Double Bounce After Mystic Harpoon
+-Changed C.HK limiter 55->15
+-Removed Tackle JP-3
+-Added Sonic Kick JP-7
+-Fixed Lvl indicators not showing on emo bar
+-Fixed D.Mk reset
+-Fixed Juggle Var Delay when cancelling on OTG
+-Added Trap Blast timer and combo limit
+-Trap Blast are now untechable
+-Trap Blast now have an 8 second timer
+-Trap Blast can now juggle 3 times before whiffing
+-Added 23 points->dampener on the FF.
+ *Forward Throw & Back Throw
+-Added 2 points->dampener on the FF.
+ *Punch and Kick Zetto
+-Added not hitby SCA to FF.
+-=================================*
+Destructive Wave - death/cancelled
+Mental Shock helper
+Carnage Blitz Afterimage
+Carnage Blitz sound
+Red Carnage Blitz sound
+Destroyed Mystic Harpoon
+Mh Beam
+Mh Eye Beam
+Ball Maker
+Deploy Super Ball
+Floating Balls
+Grenades are ready
+Trap Shot Orb Explodes
+Big Explosions
+SBC Beam Dissipate
+Light Grenade Explodes
+Clone Blood Drops
+Clone Blood pool
+-=================================*
+-Made juggle points set from 15->56 from zetto all versions
+-Moved down Destructive wave priority below Mystic Harpoon all versions
+-Fixed cancelling from C.HK
+-Fixed missing anti fuzzy anim
+-Ground hit of Seeking Bullet now faces the right way
+-Removed AA slam shock time limiter
+-Fixed whiff dash cancel on focus
+-Added level indicators on emo bar
+-Lowered AA slam blue clsn
+-Made AA alam red clsn bigger
+-Reduced SBC blocking damage
+-Added air normals invul to EX AA slam
+-Changed AA start-up up to
+ L-fastest
+ M-fast
+ H-Slow
+ EX-Fastest+Normal Air Attack invul
+-SBC can now be held at any power bar level
+-Added Focus explod limiter
+-Reduced width and adjusted blue clsn of short hop
+-Removed meter gain Zetto and they set Juggle Points->15
+-Changed basics limiter helper-> explod in Zetto
+-Fixed off center mafuba box
+-Fixed AI cancelling in air/ground/crouch for the FF.
+ *c.MK C.LP,Air D.wave and EX 
+-Added deddo endo only possible at lvl1 demon bar-
+-Added probability of punch zetto
+-Reverted lvl1 demon bar dead end limiter
+-Changed hold dead end command from a/b/c - b+y
+-Removed red carnage charge for dead end- manual & AI
+-Removed EX Mystic AA invul
+-Fixed corner back throw
+-Removed Mental Shock meter gain
+-Removed 14 mb tutorial palette folder
+-Removed dive kick air recover
+
+Pilaf
+------------------------------
+-fixed looping sounds when sent to custom state
+-fixed ai trying to use air z counter that doesnt exist
+-fixed air block hurtboxes being weirdly low
+-fixed j.mk juggling blocking enemies indefinitely
+-fixed dead pilaf not moving with the robot
+-fixed some wayward/cut off sounds
+-fixed bug that clones pilaf again
+-fixed mirrored taunt swears
+-normalized some hurtboxes
+
+-reduced ai blocking
+-fixed bug where attacks could hit after throw and break it
+
+-normalized some gethits/blocking hurtboxes
+-made ai much more agressive because i hate you. yes, you.
+
+Satan
+---------------------------
+UPDATES: 1/5/2020 5.0 Patch
+-**Nerf**:
+	-Throws will have more combo scaling
+	-All Zetto Counters will apply max scaling to combos
+UPDATES: 1/1/2020 5.0 Patch
+-**Misc**:
+	-Gallery will appear over stage foreground elements
+	-Bugfix on the Gallery not becoming visible again after a Grand Fan
+-**Misc**:
+	-Anti Fuzzy updates
+	-Forward Throw:
+		-Bugfix on being able to move slightly after it plays the winning animation
+		-Bugfix on P2 getting control back after a winning animation
+		-Added proper hit counter (Applies to Back Throw also)
+-**Buff**:
+	-During Emo, Grounded Kick Zetto Counter will lead to Emo Dynamite Kick on hit
+	-Dynamite Kick:	
+		-Grounded landing lag reduced -7
+		-More space given to Satan on block
+		-Blockstun increased +2
+	-Praying Counter:
+		-is now active on Frame 1
+		-Pause increased to +20 (from +15)
+-**Misc**:	
+	-Made the window for a super jump after aHK or sHK>U+HK tighter
+	-Bugfix on infinite involving Rolling Mine and Focus Attack
+
+SSJ Goku
+---------------------------
+1/5/2020
+-**Nerf**:
+	-Throws will have increased combo scaling
+	-All Zetto Counters will apply max combo scaling
+--**Misc**:
+	-Teleport animation change
+-**Misc**:
+	-Wall Break VFX adjustments
+-**Misc**:
+	-Anti Fuzzy block changes
+	-Palette adjustments
+-**Misc**:
+	-P2 position during Finisher 1 adjusted
+	-sHK VFX changes
+	-Power Charge VFX changes
+	-Focus Attack changes to prevent infinites
+	-Bugfix on triggering invalid teleport states
+	-No longer required to have full bar to perform God Bind or Smash Attacks
+	-UI Finisher:
+		-SFX and VFX changes
+		-Shortened length
+
+SSJ Vegeta
+------------------------------------
+January 5 2021
+------------------------------------------
+General: -Fixed bug causing vegeta to return to SSJ after being hit by Satan's lvl 3
+         -Zetto counters max out damage scaling
+         -Throws add 2 points to damage scaling
+
+Enhanced Straight Shooter: -Opponent turns around before getting up
+General: -Punch Zetto Counter can no longer kill
+         -Kick Zetto Blockstun increased
+         -Fixed focus attack dash bug
+
+Final Impact: -Reduced Launch height on third hit
+
+Saiyan Rave: -Able to do followups faster
+
+Final Flash: -Reduced damage on first hit
+             -Fixed damage scaling 
+             -Updated FX
+
+Tien
+-----------------------------
+5.0 PATCH
+-added Focus Limiter2
+-added fail safe for flying pink pig to leave the stage
+-made Talons not oH throughout as intended
+-added destroyed helper protection
+-adds 23 dampener points after zetto hits
+-adds 2 dampener points after throw hits
+-can now use 2P to dash after back dash
+-updated throws
+-added min air dash height
+-otg hits add to juggle points
+-debug now displays juggle points
+-jSP can now cross up
+
+Vegeta/Majin
+---------------------------------
+Beta 47 (20201231) - Farewell 2020 edition
+- Fixed sprite order in twist animation
+- Decreased AI blocking routines
+- Adjusted Juggle Points in some moves
+- Improved timing for c.HK>c.HK
+- Removed free juggling after ground bounce
+- Majin Vegeta's Zetto Counters are now recoverable
+- Increased buffer window for MGT
+- Fixed wall bounce sound in EX Surprise elbow
+- Bomber Kick can now be performed as a standalone special
+- Increased buffer time for Royal Fist>Royal Edict
+- Atomic Blast will explode if Majin Vegeta jumps over it
+- Scaled down damage in Big Bang Attack
+- Increased minimal damage in Galick Ho Lv2
+- Fixed bug in Air GG being performed with insufficient power after Rising Knee
+- Air GG can now be performed mid air, and not requiring EMO
+- Added red afterimages to Air GG
+- Removed veladd from Air GG if performed as standalone
+- GG will consume 2 power bars now
+- Prevented recovery in Majin Vegeta Finisher Lv3
+- Fixed bug in Babidi vs. Majin Vegeta intro
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Fixed Focus Attack bug allowing cancel on whiff from P2 side
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter followups will now result in minimal damage
+
+Vegetto
+--------------------------
+Beta 04 (20201231) - Farewell 2020 edition
+- Decreased Vegetto's overall life
+- Increased clsn2 boxes
+- [HDBZ] Fixed animation check in state 651
+- [HDBZ] Added Focus Attack Limiter
+- [HDBZ] Fixed Focus Attack bug allowing cancel on whiff from P2 side
+- [HDBZ] Added NHB safeguard to helpers without clsn2 boxes
+- [HDBZ] Zetto Counter folowups will now result in minimal damage

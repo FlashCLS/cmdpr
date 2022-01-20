@@ -1,0 +1,94 @@
+;HDBZ INTRO
+;==================================================================================================
+[Info]
+name = "HDBZ PRESS START"
+author = "NoZ"
+versiondate = 05-01-2011
+mugenversion = 1.0
+localcoord = 640,480
+
+[SceneDef]
+spr = press_start.sff
+startscene = 0         ;Starting scene number (for debugging)
+;------------------------------------
+[Scene 0]
+; Fade
+fadein.time = 90       ;Time to take for fading in
+fadein.col = 240,240,240     ;Use 255,255,255 for white-fade
+fadeout.time = 15
+fadeout.col = 0,0,0
+; Screen color
+;clearcolor = 0,0,0
+; Overlay Anims (from 0 to9)
+layerall.pos = 0,0  ;Default position for all layers
+layer0.anim =  0       ;Anim action number
+layer0.offset = 0,0   ;Position offset
+layer1.anim =  1       ;Anim action number
+layer1.offset = 0,0   ;Position offset
+layer2.anim =  2       ;Anim action number
+layer2.offset = 0,0   ;Position offset
+layer3.anim =  3       ;Anim action number
+layer3.offset = 0,0   ;Position offset
+layer4.anim =  4       ;Anim action number
+layer4.offset = 0,0   ;Position offset
+layer5.anim =  5       ;Anim action number
+layer5.offset = 0,0   ;Position offset
+layer6.anim =  6       ;Anim action number
+layer6.offset = 0,0   ;Position offset
+layer7.anim =  7       ;Anim action number
+layer7.offset = 0,0   ;Position offset
+layer8.anim =  8       ;Anim action number
+layer8.offset = 0,0   ;Position offset
+layer9.anim =  9       ;Anim action number
+layer9.offset = 0,0   ;Position offset
+
+; Music
+bgm = press_start.mp3        ;Name of music file to play
+bgm.loop = 0
+; Total time
+end.time = 1500
+;---------------
+[Begin Action 0] ;SKY
+2,1, 0,0, -1,
+
+[Begin Action 1] ;SHENRON
+2,2, 0,0, -1,
+
+[Begin Action 2] ;STAGE
+2,3, 0,0, -1,
+
+[Begin Action 3] ;Gotenks and Babidi
+2,4, 0,0, -1,
+
+[Begin Action 4] ;Fighters group 1
+2,5, 0,0, -1,
+
+[Begin Action 5] ;Fighters group 2
+2,6, 0,0, -1,
+
+[Begin Action 6] ;VEGETA
+2,7, 0,0, -1,
+
+[Begin Action 7] ;Goku
+2,8, 0,0, -1,
+
+[Begin Action 8] ;Logo
+2,9, 0,0, -1,
+
+[Begin Action 9] ;Press Start
+-1,0, 0,0, 90,
+2,10, 0,0, 3 , ,AS32D224
+2,10, 0,0, 3 , ,AS64D192
+2,10, 0,0, 3 , ,AS96D160
+2,10, 0,0, 3 , ,AS128D128
+2,10, 0,0, 3 , ,AS160D96
+2,10, 0,0, 3 , ,AS192D64
+2,10, 0,0, 3 , ,AS224D32
+2,10, 0,0, 120
+2,10, 0,0, 3 , ,AS224D32
+2,10, 0,0, 3 , ,AS192D64
+2,10, 0,0, 3 , ,AS160D96
+2,10, 0,0, 3 , ,AS128D128
+2,10, 0,0, 3 , ,AS96D160
+2,10, 0,0, 3 , ,AS64D192
+2,10, 0,0, 3 , ,AS32D224

@@ -1,0 +1,32 @@
+
+5.a
+-fixed looping sounds when sent to custom state
+-fixed ai trying to use air z counter that doesnt exist
+-fixed air block hurtboxes being weirdly low
+-fixed j.mk juggling blocking enemies indefinitely
+-fixed dead pilaf not moving with the robot
+-fixed some wayward/cut off sounds
+-fixed bug that clones pilaf again
+-fixed mirrored taunt swears
+-normalized some hurtboxes
+
+-reduced ai blocking
+-fixed bug where attacks could hit after throw and break it
+-normalized some gethits/blocking hurtboxes
+-made ai much more agressive because i hate you. yes, you.
+
+
+5.b
+-fixed lvl3 bug where damage scaling got reset. damage rebalanced. 
+-nerfed ex shu cannon frame data
+-slightly fiddled with some damage values on specials and normals
+-blocked air bounce will now push you backwards
+-you can no longer focus smash after ex mai gunner. this is to remove super easy unblockable. please understand
+
+-fixed a bug where vaccumm grab move was sometimes unjumpable
+
+-new crossup protection on wakeup thing (universal change)
+
+post 5.b:
+-fixed bug where if you ended mai gunner the attack flag would still stay and the enemy would still block when they held back
+-fixed missaligned back(ball)break sprites

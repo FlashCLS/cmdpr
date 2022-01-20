@@ -1,0 +1,804 @@
+HYPER DRAGON BALL Z MOVELIST
+
+Key Legend:
+
+Directions
+f		= forward
+F		= HOLD forward 
+f,f		= double tap forward
+f,F		= tap forward, tap forward again and HOLD
+df		= down-forward
+d		= down
+D		= HOLD down
+db		= down-back
+b		= backward
+B		= HOLD backward
+ub		= up-backward
+u		= up
+U		= HOLD up
+uf		= up-forward
+
+Attacks
+P		= any Punch button
+2P		= any two Punch buttons
+3P		= all three Punch buttons
+LP		= Light Punch / A key on keyboard by default
+MP		= Medium Punch / S key on keyboard by default
+SP		= Strong Punch / D key on keyboard by default
+K		= any Kick button
+2K		= any two Kick buttons
+3K		= all three Kick buttons
+LK		= Light Kick / Z key on keyboard by default
+MK		= Medium Kick / X key on keyboard by default
+SK		= Strong Kick / C key on keyboard by default
+START		= Taunt
+(in air)	= move must be performed when you're in mid-air
+(air OK)	= move can be performed both when standing and when you're in mid-air
+(hold)		= hold the attack button to delay or charge the attack, usually release to perform it
+(rapidly)	= mash that button repeatedly
+[EX]		= special move has an EX version by inputting the same command but with 2 buttons
+[EX only]	= special move that only has an EX version (costing half of 1 stock of the Power Bar)
+[Lvl1]		= costs 1 stock of the Power Bar
+[Lvl2]		= costs 2 stocks of the Power Bar
+[Lvl3]		= costs 3 stocks of the Power Bar / a full Power Bar
+
+Motions
+QCF		= quarter circle forward - down, down-forward, forward
+QCB		= quarter circle backward - down, down-backward, back
+HCF		= half circle forward - backward to down to forward
+HCB		= half circle backward - forward to down to backward
+DP		= dragon punch motion - forward, down, down-forward
+RDP		= reverse dragon punch motion - backward, down, down-backward
+
+Follow-Ups
+*		= Commands that start with an asterisk are follow-ups to a previous asterisk-less command.
+** (or more)	= Commands that start with multiple asterisks are follow-up to previously mentioned follow-ups.
+
+Universal Techniques
+f,F or f+2P			= Run
+b,B or b+2P			= Back Dash
+(in air) f,F or f+2P or 2P	= Air Dash Forward
+(in air) b,B or b+2P		= Air Dash Backwards
+d, U				= Super Jump
+LP+LK / f+LP+LK			= Grab Attempt, (when successful) Forward Throw
+b+LP+LK				= Grab Attempt, (when successful) Backwards Throw
+MP+MK				= Power Charge
+SP+SK				= Focus Attack / Projectile Reflector
+(block attack) f+2P (air OK) 	= Zetto Counter 1
+(block attack) f+2K (air OK)	= Zetto Counter 2
+
+Characters:
+
+1 - 	Babidi
+2 - 	Buu
+3 -	Eighteen
+4 - 	Freeza
+	
+5 - 	Gohan
+6 - 	Goku
+7 - 	Goku (SSJ)
+8 -	Gotenks
+
+9 -	Krillin	
+10 -	Satan
+11 - 	Piccolo
+12 -	Pilaf Gang
+13 -	TenShinHan
+
+14 -	Vegeta
+15 - 	Vegeta (SSJ)
+16 - 	Vegeta (Majin)
+17 -	Vegetto
+
+----------------------------------------------------------------------------------
+
+1- Babidi
+
+Special Normals
+f+LP					= Orb Launcher
+f+MP					= Tornado Whirl
+f+SP					= Rock Throw
+f+LK					= Magma Bulb
+f+MK					= Lightning Strike
+f+SK					= Ice Bullet
+
+Special Moves
+d,d+P					= Gravity Trap
+QCF+P (in air) 				= Curse Skull
+QCB+P [EX]				= Pui Pui Puncher
+QCF+K					= Sticky Bomb
+QCB+K (air OK) [EX]			= Floating Bomb
+DP or RDP+P				= Wizard's Teleport
+
+Super Moves
+QCFx2+P [Lvl1]				= Yakon Slasher
+QCBx2+P  [Lvl1]				= Pui Pui Blaster
+QCBx2+K [Lvl1]				= Dabura Blaster
+QCBx2+2K [Lvl2]				= Dabura Hellfire
+QCB,f+P [Lvl3]				= Super Enchanter
+
+----------------------------------------------------------------------------------
+
+2 – Buu
+
+Special Normals
+b,b					= Meltreat
+d,d,D					= Meltdown
+K (while in Puddle Mode)		= Meltdown Kick
+f+MP				 	= Elasti-Punch
+f+MK					= Elasti-Kick
+SK					= Reform Kick
+f+SK					= Axe Kick
+f+MK (in air)				= Aerial Elasti-Kick
+d+SP 					= Antenna Whip
+d+SP, D or U (in air)			= Sleeping Fist
+f,f+SP					= Wake Up Call
+START (standing / crouching / air OK)	= Special Taunt
+
+Special Moves
+QCF+P [EX]				= Blork!
+QCB+P, any direction (air OK) [EX]	= Maniac Ball
+b,db,d+2P [EX only]			= Candy Beam
+d+LP+LK, any button rapidly		= Eat You
+					*note: only effective after a successful Candy Beam
+RDP+P					= Gum Header
+*RDP+P					= Gum Header Callback 
+QCB+K					= Pop Kick
+3P					= Chaos Burst
+
+Super Moves
+QCFx2+P [Lvl1]				= Gackt!
+QCB,f+P (air OK) [Lvl1]			= Vice Shot
+QCBx2+P [Lvl1]				= Heavy Rain
+QCFx2+K [Lvl1]				= Pain Train
+QCB,f+P (in air) [Lvl1]			= Madman's Ball
+QCB,f+2P (air OK) [Lvl2]		= Angry Vice Shot
+QCB,f+2K (air OK) [Lvl2]		= Flesh Prison
+QCBx2+K [Lvl3]				= Kill You
+
+d,d+MP+MK				= activate Hunger Mode
+
+Power Mode - 'Hunger Mode'
+d,d+MP+MK				= Mega Candy Beam (cancels Hunger Mode)
+QCBx2+K [Lvl2]				= 'Hungry' Kill You (cancels Hunger Mode)
+
+----------------------------------------------------------------------------------
+
+3 -  Eighteen
+
+Special Normals
+LP+LK (in air)				= Taking Out The Trash
+(block) f+2P				= Vault
+LK (hold( (in air)			= Leg Day
+b+MP					= Slaps
+f+MP					= Blitz Ball
+f+MK, MKx2				= Triple Threat
+ub+MK or uf+MK				= Scissors Kicks
+d+SP (hold, release)			= Glassgow Kiss
+d+SP (in air)				= Power Dunk
+f+SK					= The Boot
+b+SK					= Calf Kick
+f,f+SK					= Dash Kick
+
+Special Moves
+QCB+P [EX]				= Crossfire
+QCF+P					= Blitz Deadend
+DP+P [EX]				= Violence Hold
+QCF+K (hold, release), K (air OK) [EX]	= Ballistic Kiss
+QCB+K [EX]				= Graceful Revolution
+
+Super Moves
+QCFx2+P (in air) [Lvl1]			= Infinity Bullet
+QCFx2+P [Lvl1]				= Power Breaker
+QCBx2+P [Lvl1]				= Cascade
+QCBx2+K [Lvl1]				= Eternal Revolution
+QCFx2+2P [Lvl2]				= Twin Beam Power Breaker
+QCFx2+2K [Lvl2]				= Clockwork Overdrive
+QCF, HCB+P, (optionally D or U) [Lv3]	= Overdrive Deadly Breaker
+
+d,d+MP+MK				= activate Cold Mode
+
+Power Mode - 'Cold'
+d,d+MP+MK				= Accel Dance (cancels Cold Mode)
+QCF, HCB+P, (optionally D or U) [Lvl2]	= 'Cold' Overdrive Deadly Breaker (cancels Cold Mode)
+
+----------------------------------------------------------------------------------
+
+4 - Freeza
+
+Special Normals
+f+SK					= Axe Kick
+LP (hold) (in air)			= Extended Elbow
+MK (hold) (in air)			= Saucer Kick
+d+MK (in air)				= Dive Kick
+SK (in air)				= Tail Flip
+d+SP 					= Tail Lance
+d+SK					= Death Star
+f,f+SK					= Superior Flip
+
+Special Moves
+QCF+P (air OK) [EX]			= Head Charge
+QCB+P (air OK) [EX]			= Death Wave
+QCB+K [EX]				= Dancing Elbow
+RDP+K					= After You
+
+Super Moves
+QCFx2+P [Lvl1]				= Death Beam
+QCB,f+P [Lvl1]				= Death Saw
+QCBx2+P (air OK) (hold) [Lvl1]		= Death Ball
+QCFx2+2P [Lvl2]				= Death Beam Barrage
+QCBx2+2P (air OK) (hold) [Lvl2]		= Great Death Ball
+QCBx2+3P (air OK) (hold) [Lvl3]		= Superior Death Ball
+QCFx2+K [Lvl3]				= Tail Press Nightmare
+
+d,d+MP+MK [Lvl2]			= activate Sadism Mode
+
+Power Mode - 'Sadism Mode'
+f,f (close) or b,b			= Teleport Dash
+RDP+P rapidly				= Torture Gun
+d,d+MP+MK or B,f,b,f+P			= Death Charge (cancels Sadism Mode)
+QCFx2+K [Lvl2]				= 'Sadistic' Tail Press Nightmare (cancels Sadism Mode)
+
+----------------------------------------------------------------------------------
+
+5 - Gohan
+
+Special Normals
+b,b					= Striker Backdash
+f,f or b,b (in air)			= Double Air Dashes
+MP / MK, MK				= Standing Combo Extender
+MP / MK, MP (in air)			= Jumping Combo Extender 1
+MP / MK, MK (in air)			= Jumping Combo Extender 2
+SKx2					= Wing Kick Combo
+d+SK					= Launcher Kick
+d+MP (in air)				= Elbow Drop
+SP (in air)				= Butterfly Smash
+any direction+SK (in air)		= Omni Kicks
+f,f+MK					= Slashing Kick
+f,f+SK					= Running Launcher Kick
+
+Special Moves
+QCF+P (can repeat once) [EX]		= Ki Blast
+QCB+K (air OK) [EX]			= Hurricane Kick
+DP+K [EX]				= Rising Hurricane Kick
+QCF+K (in air) [EX]			= Diving Kick Flurry
+
+Super Moves
+QCBx2+P (hold) [Lvl1]			= Masenko
+*U					= Masenko, aimed diagonally upwards
+QCB,f+P [Lvl1]				= Soaring Dragon Strike
+QCBx2+K (in air) [Lvl1]			= Thunder Flurry Kick
+QCBx2+2P (hold) [Lvl2]			= Super Masenko
+*U					= Super Masenko, aimed diagonally upwards
+QCBx2+2K (in air) [Lvl2]		= Super Thunder Flurry Kick
+QCFx2+2P (hold) (air OK) [Lvl2]		= Super Kamehameha
+QCB,HCF+K [Lvl3]			= Gekiretsu Ranbu
+
+d,d+MP+MK [Lvl2]			= activate Unleashed Mode
+
+Power Mode - 'Unleashed Mode'
+any direction + 2P			= Unleashed Air Dashing
+QCB,HCF+K [Lvl2]			= 'Unleashed' Gekiretsu Ranbu (cancels Unleashed Mode)
+
+----------------------------------------------------------------------------------
+
+6 - Goku
+
+Special Normals
+b,b, then b when landing		= Back Handsprings
+b,b, then any attack			= Backdash Attack
+MP / MK (close), MP			= Standing Combo Extender
+d+SP					= Uppercut
+SK (in air) 				= Boomerang Kick
+SK (in air, after passing over P2)	= Reverse Boomerang Kick
+f,f+SK					= Cartwheel Kick
+
+Special Moves
+QCF+P (can repeat twice)		= Ki Blast
+QCB+P [EX]				= Dragon Dash
+*K					= Dash Cancel
+*LP					= Dragon Tail
+*MP					= Dragon Knuckle
+*SP					= Dragon Upper
+QCF+K [EX]				= Leap
+*d+K					= Slash-down Kick
+*K					= Swoop Kick
+*P					= Appetite
+QCB+K (air OK) [EX]			= Hurricane Kick
+*QCF+K					= Blur Kick
+*QCB+K					= Boomerang Kick
+QCF+K (in air) [EX]			= Slash-down Kick
+D,u+K [EX]				= Snap Kick
+*d+K					= Banger Kick
+
+Super Moves
+QCFx2+P (air OK) [Lvl1]			= Kamehameha
+*U					= Kamehameha, aimed diagonally upwards
+					*this applies only to the standing variant
+QCFx2+K (air OK) [Lvl1]			= Bicycle Kick
+QCFx2+2P [Lvl2]				= Super Kamehameha
+*U					= Super Kamehameha, aimed diagonally upwards
+QCBx2+P or 2P or 3P [Lvl1-Lvl2-Lvl3]	= Kaioken Install
+QCFx2+2K (air OK) [Lvl2]		= Meteor Kick
+QCFx2+3K (air OK) [Lvl3]		= Final Meteor Kick
+QCF, HCB+K [Lvl3]			= Kaioken Assault
+
+d,d+MP+MK [Lvl2]			= activate Hope Mode
+
+Power Mode - 'Hope Mode'
+MP+MK (air OK)				= charge Hope Gauge (replaces Power Charge)
+d,d+MP+MK				= Spirit Bomb (cancels Hope Mode)
+QCF, HCB+K [Lvl2]			= 'Hopeful' Kaioken Assault (cancels Hope Mode)
+
+----------------------------------------------------------------------------------
+
+7 - Goku (SSJ)
+
+Special Normals
+b,b, then any attack			= Backdash Attack
+SP					= Flurry Punch
+SPx2					= Flurry Punch, Fury Uppercut
+SKx3					= Blur Max Kick Combo
+d+SP					= Uppercut
+d+SK					= 360 Splits Kick
+SK (in air) 				= Boomerang Kick
+SK (in air, after passing over P2)	= Reverse Boomerang Kick
+f,f+SK					= Wing Kick
+
+Special Moves
+QCF+P (can repeat twice) [EX]		= Ki Blast
+DP+P [EX]				= Blast Fist
+QCF+K (in air) [EX]			= Slash-down Kick
+QCB+P or K [EX-only]			= Teleport
+
+Super Moves
+QCFx2+P (air OK) [Lvl1]			= Kamehameha
+*U					= Kamehameha, aimed diagonally upwards
+					*this applies only to the standing variant
+QCFx2+K  [Lvl1]				= Sonic Rush
+*F					= Sonic Rush Forward
+QCFx2+2P (air OK) [Lvl2]		= Super Kamehameha
+*U					= Super Kamehameha, aimed diagonally upwards
+					*this applies only to the standing variant
+QCFx2+2K [Lvl2]				= Super Sonic Rush
+*F					= Super Sonic Rush Forward
+QCFx2+3P (air OK) [Lvl3]		= Mega Kamehameha
+QCF, HCB+K [Lvl3]			= Hyper Rush
+
+d,d+MP+MK [Lvl2]			= activate Justice Mode
+
+Power Mode - 'Justice Mode'
+F or U or B or D + MP+MK (air OK)	= Pursuit Attacks
+d,d+MP+MK				= God Bind (cancels Justice Mode)
+QCF, HCBx2+K [Lvl2]			= 'Justified' Hyper Rush (cancels Justice Mode)
+
+----------------------------------------------------------------------------------
+
+8 - Gotenks
+
+Special Normals
+MP (hold)				= Flurry Punch
+MKx2					= Can Can Dance
+SP (hold)				= Spin Spin Punch
+b+SP (hold)				= Spin Spin Upper
+st.SKx2					= Stand On You
+d+MKx3					= Cossack Dance
+d+SP					= Nut Crusher
+d+SK (can be done while running)	= Power Slide
+f,f+SP					= Charging Bull Attack
+START (while standing/crouching/jumping)= Gotenks Taunts!
+
+Special Moves
+QCF+P (in air) [EX]			= Miracle Blast
+B,f+P [EX]				= Insult!
+D,u+P					= Dynamite Head Crusher
+QCB+P					= Hero Stance
+*K					= Hero Stance cancel
+*LP					= Hero Phase 2 - Dynamic Entry
+*MP					= Hero Phase 2 - Ballerina Tornado
+*SP					= Hero Phase 2 - Superman!
+*LP+MP or LP+HP [EX only]		= Hero Phase 2 - Wolf Fang Slasher
+*MP+HP [EX only]			= Hero Phase 2 - Wolf Fang Kicker
+QCB+LP	(in air)			= Aerial Dynamic Entry
+QCB+MP	(in air)			= Aerial Ballerina Tornado
+QCB+SP	(in air)			= Aerial Superman!
+QCB+LP+MP or LP+HP (in air) [EX only]	= Aerial Wolf Fang Slasher
+QCB+MP+HP (in air) [EX only]		= Aerial Wolf Fang Kicker
+
+
+Super Moves
+QCFx2+P (in air) [Lvl1]			= Continuous Die Die Missiles
+QCB,f+P [Lvl1]				= Super Volley Serve Attack!
+QCBx2+P	[Lvl1]				= Galactica Donut Entrapment
+QCFx2+K [Lvl1]				= Ghost Bros
+*B,f+P					= Go Go Ghost!
+*D,u+K					= Ghost Head Crusher
+*QCF+K (in air)				= Air Ghost Fire!
+*QCB+K					= Ghost Mine
+*d,d+K	(after Ghost Mine)		= Ghost Callback
+*P+K (while attacking) [EX only]	= EX Ghost
+QCF2+2P (in air) [Lvl2]			= Continuous Die Die Missiles To The Max!
+QCBx2+2P				= Galactica Volley Ball Entrapment
+QCFx2+2K [Lvl2]				= Ghost Posse
+
+QCBx2+K [Lvl3]				= SSJ3 Mode Activation
+*d+LP					= Star Blast
+*d+MP					= Victory Blast
+*d+SP					= Victory Pound
+*d+K					= Ghost Buddy
+*b,F+P					= Dimensional Portal (knock P2 into it for Finishers)
+
+d,d+MP+MK [Lvl2]			= SSJ2 Mode Activation
+
+Power Mode - 'SSJ2 Mode'
+d,d+MP+MK				= Super Taunt (cancels SSJ2 Mode)
+QCBx2+K [Lvl2]				= 'Powerful' SSJ3 Mode Activation
+
+----------------------------------------------------------------------------------
+
+9 – Krillin
+
+Special Normals
+(U or UB, then when near wall) UF	= Wall Jump
+d,d,D or d+3K				= Duck'n Cover
+*DB/DF					= Roll Out
+b+2K					= Back Hop
+MKx2, SP / SK				= Triple Turtle Combination
+SPx2					= Tough Guy
+d+SP					= Rising Elbow
+f,f+SK					= Dash Kick
+d+P (in air)				= Rocketman
+d+START (in air)			= Fake Rocketman
+
+Special Moves
+QCF+P [EX]				= Trick-Ki Blast
+QCF+START				= Fake Ki Blast
+QCB+P [EX] (air OK)			= Jet Kamehameha
+QCB+START (air OK)			= Fake Jet Kamehameha
+RDP+K					= Solar Flare
+RDP+START				= Fake Solar Flare
+DP+K [EX]				= Turtle Flip
+*P / K / LP+LK				= Turtle Down Hammer / Up Kick / Snapper
+DP+START				= Fake Turtle Flip
+
+Super Moves
+QCBx2+P (hold) [Lvl1]			= Destructo Disc
+*P, P (during Confidence Mode)		= Extra Discs
+					* hold any direction to influence their trajectory
+QCFx2+K [Lvl1]				= Orin Combo
+QCFx2+P [Lvl1]				= Blasting Bullet
+QCFx2+2P [Lvl2]				= Scattering Bullet
+QCFx2+2P [Lvl2] [in air]		= Kamehameha
+QCBx2+K [Lvl3]				= Solar Flare x100
+
+d,d+MP+MK [Lvl2]			= activate 'Confidence Mode'
+
+Power Mode - 'Confidence Mode'
+QCB+K					= Wild Sense
+*P					= Mirage
+*LK/MK/SK				= Flip Kick / Attack Blaster/ Jump Blaster
+d,d+MP+MK				= Senzu Bean
+QCBx2+K [Lvl2]				= 'Confident' Solar Flare x100
+
+----------------------------------------------------------------------------------
+
+10  - Piccolo
+
+Special Normals
+SPx2					= Double Claw
+f+SP					= Knuckle Smash
+f+SK					= Jumping Knee Smash
+MK rapidly (in air)			= Rapid-Fire Kick
+d+MK (in air)				= Kick Fang
+d+SP (in air)				= Elbow Smash
+df+SP					= Eye Laser
+df+SK					= Handstand Kick
+f+SK (in air)				= Solar Kick
+f,f+SK					= Sonic Kick
+
+Special Moves
+QCF+P (air OK) [EX]			= Destructive Wave
+B,f+P [EX]				= Mystic Harpoon
+D,u+P [EX]				= Mystic Air Harpoon
+B,f+K [EX]				= Carnage Blitz
+Hold, then release P/K, 2P/2K or 3P/3K	= Red Carnage
+QCF+K (in air) [EX]			= Halo Stomp
+
+Super Moves
+QCFx2+P (hold) [Lvl1]			= Special Beam Cannon
+*f,f or b,b				= Special Teleport
+QCB,f+K					= Dark Lord's Army (copy clones)
+					*LK clone mirrors your moves.
+					*MK clone does the same but with a small delay.
+					*SK clone mirrors your moves while staying behind the opponent.
+QCBx2+K [Lvl1]				= Demon Thunder Legs
+*f,F or f+2P after 4th kick		= Dash-Cancel Thunder Legs (allows for aircombo after)
+QCFx2+2P [Lvl2]				= Seeking Bullet
+QCBx2+P [Lvl3]				= Hellzone Grenade
+*QCBx2+P or d,d+SP+SK			= Launch Hellzone Grenade 
+
+d,d+MP+MK [Lvl2]			= activate Demon Mode
+
+Power Mode - 'Demon Mode'
+QCF+K / QCB+K				= Trap Blast
+DP+K / RDP+K				= Detonate Trap Blast
+d,d+MP+MK				= Dead End (cancels Demon Mode)
+QCBx2+P [Lvl2]				= 'Demonic' Hellzone Grenade
+					*disables Dead End
+*QCBx2+P or d,d+SP+SK			= Launch 'Demonic' Hellzone Grenade (cancels Demon Mode)
+
+----------------------------------------------------------------------------------
+
+11 - Pilaf Gang
+
+Special Normals
+f,F then any P or K			= Crabby Demeanor
+MK (hold)				= Afterburning Sensation
+SP (hold)				= Noggin' Bruiser
+
+Special Moves
+QCF+P (holdable) [EX]			= Shu Cannon
+QCB+P [EX]				= Mai Gunner
+QCF+K, K [EX]				= Fastball
+QCF+K (in air)				= Bounceball
+QCB+K [EX]				= Crabby Cross
+RDP+K [EX]				= Vaccuum Hold
+RPD+P					= Accidental Discharge
+
+Super Moves
+QCFx2+P [Lvl1]				= Ballistic Missiles
+QCFx2+K [Lvl3]				= Pilaf Calamity
+
+----------------------------------------------------------------------------------
+
+12 - Satan
+
+Special Normals
+f,f					= Satan Dash
+f,f (in air)			 	= Satan Flight
+LP (rapidly)				= Wonderful Multi-Punches
+MK (rapidly)				= Wonderful Multi-Kicks
+SK, then SK / up+SK / down+SK		= Satan Seconds
+d+SK					= Sliding Tackle
+SK (in air)				= Satan Shoot
+d+SK (in air)			 	= Woodchopper Kick
+f,f+SP					= Satan Smash
+2K (in air, holdable)			= Satan Booster
+
+Special Moves
+QCF+P (holdable)			= Capsule Surprise
+*d					= Cancel Surprise
+QCF+K (air OK)				= Dynamite Kick
+QCB+K					= Nimbly Wimbly
+*K					= Dismount Dynamite Kick
+*U					= Dismount Jump
+*B					= Wall Cling
+QCB+P					= Rolling Mine 
+RPD+P					= Satan Stance
+
+Super Moves
+QCFx2+P [Lvl1]				= Golden Capsule Surprise
+QCB,f+P	[Lvl1]				= Megaton Punch
+QCFx2+K [Lvl1]				= Bat Outta Hell
+QCFx2+2K [Lvl2]				= Bat Outta Hell Times Two!
+LP,LP,f,LK,SP [Lvl3]			= Present For You
+
+d,d+MP+MK [Lvl2]			= Activate 'Champ Mode'
+
+Power Mode - 'Champ Mode'
+START					= Hype!
+d,d+MP+MK				= The Crowd Goes Wild! (cancels Champ Mode)
+LP,LP,f,LK,SP [Lvl2]			= 'The Champ's' Present For You (cancels Champ Mode)
+
+----------------------------------------------------------------------------------
+
+13 – TenShinHan
+
+Special Normals
+3K (air OK) 				= activate Hover Mode
+*any direction				= dash / drop / jump out
+f+LP+LK					= Flip Kick (comboable throw)
+f+MK					= Hop Kick
+MK, f+MK				= Switch Kick
+f+SK					= Traveler Kick
+d+SP					= Double Hammer Uppercut
+d,d+SP (holdable)			= Volley Ball Ready! Stance
+*d+SP					= Volley Ball Save
+*SP					= Volley Ball Receive
+*u+SP 					= Volley Ball Spike
+					*can be done in order for a combo
+f,f+SP					= Volley Ball Running Save
+d+SP (in air)			 	= Buddha's Fist
+
+Special Moves
+QCF+P [EX]				= Talons (follow-ups below apply only to non-EX version)
+*QCF+P 					= Kung Fu Concussion
+**f+P					= Kung Fu Palm
+**u+P					= High Kung Fu Palm
+**f+K					= Hammer Kick
+**u+K					= High Hammer Kick
+QCB+K (air OK) [EX]			= Hunting Crane
+RDP+P [EX only]				= Chiaotzu's Dodonpa
+HCB+P [EX only]				= Chiaotzu's Telekinesis
+d,d+2P [EX only]			= Chiaotzu's Shield
+
+Super Moves
+QCFx2+P [Lvl1]				= Dodonpa
+QCFx2+K [Lvl1]				= Blinding Wings
+QCB,f+K [Lvl1]				= Four Witches Machine Gun
+QCB,f+P, P repeatedly [Lvl1-Lvl2-Lvl3]	= Ki Ko Ho
+					*consumes health when done without enough power (1 level minimum)
+QCFx2+2P [Lvl2]				= Shin Dodonpa
+QCBx2+K (air OK) [Lvl3]			= Ungrounded
+
+d,d+MP+MK [Lvl2]			= Activate Om Mode
+
+Power Mode - 'Om Mode'
+d,d+MP+MK				= Chiaotzu's Sacrifice Attack (cancels Om Mode)
+LPx2					= Double Jab
+MKx2 (air OK)				= Shaolin Spin Kicks
+*MK					= High Kick Ender
+*f+MK					= Launch (ground) / Bounce (air) Kick Ender 
+*MP					= Overhead Knuckle Ender
+f,f+SP (in air)				= Buddha's Flight
+u+SP (in air)				= Buddha's Rise
+DP+P [EX]				= Wings (follow-ups below apply only to non-EX version)
+*QCF+P					= More Wings
+**QCF+P					= Final Wings
+QCF+K					= Crane Stance (same enders as Talons rekka version apply)
+HCB+P					= Solar Flare (replaces Chiaotzu's Telekinesis)
+d,d+2P [Lvl1]				= Shiva Cage (replaces Chiaotzu's Shield)
+					*can be performed during Four Witches Machine Gun
+QCBx2+K (air OK) [Lvl2]			= 'Enlightened' Ungrounded (cancels Om Mode)
+
+----------------------------------------------------------------------------------
+
+14 - Vegeta
+
+Special Normals
+LK (in air) (hold)			= Extended Jumping Weak Kick
+MP / MK (close), MK			= Standing Combo Extender
+MP / MK, MP (in air)			= Jumping Combo Extender
+b+SP					= Gut Punch
+d+SP					= Uppercut
+d+SK					= Wolverine Sweep
+SK (in air) 				= Piston Kick
+b,b+SP					= Backdash Elbow
+f,f+SK					= Dashing Slide Kick
+
+Special Moves
+QCF+P (hold) (can repeat once) [EX]	= Ki Blast
+QCB+P (air OK)				= Machine Gun Temper 
+QCF+K / QCB+K				= Wolverine Flip
+*U					= Superjump
+*P					= Wolverine Dashing Elbow
+*K					= Wolverine Sweep
+DP+K [EX]				= Rising Knee Arrow
+*QCF+K					= Bomber Kick
+
+Super Moves
+QCFx2+P (air OK) [Lvl1]			= Galick Gun
+QCB,f+P (air OK) [Lvl1]			= Bakuhatsuha
+QCFx2+2P (air OK) [Lvl2]		= Super Galick Gun
+QCB,f+2P (air OK) [Lvl2]		= Double Bakuhatsuha
+QCBx2+P (air OK) [Lvl3]			= Final Flash
+QCB,f+3P (air OK) [Lvl3]		= Triple Bakuhatsuha
+QCFx2+K (air OK) [Lvl3]			= Galactic Gunfire
+
+d,d+MP+MK [Lvl2]			= activate Rage Mode
+
+Power Mode - 'Rage Mode'
+QCB+2P (air OK)				= EX Machine Gun Temper
+QCFx2+K (air OK) [Lvl2]			= 'Raging' Galactic Gunfire (cancels Rage Mode)
+
+----------------------------------------------------------------------------------
+
+15 – Vegeta (SSJ)
+
+Special Normals
+f,f+SP					= Surprise Flash
+d+MP (in air)				= Raccoon Elbow
+d+SP					= Uppercut
+b+MK (in air)				= Reverse Breaker Kick
+f+SK (hold to delay)			= Breaker Kick
+d+SK					= Sliding Kick
+
+Special Moves
+DP					= Saiyan Step
+*b+P					= Royal God Fist
+*b+K					= Savage Grounder
+*f+P					= Enhanced Super Dash
+*f+K					= Enhanced Straight Shooter
+*f+2P					= Enhanced EX Super Dash
+*b+2P					= Enhanced Royal God Fist (ERGF)
+QCF+P [EX]				= Super Dash
+QCB+P [EX]				= Royal Buster
+*b+LP					= Low Path
+*b+MP					= Mid Path
+*b+SP				 	= High Path
+**b+LP					= Low Ender
+**b+MP 					= Mid Ender
+**b+SP					= High Ender
+**2P					= Atomic Bomb
+QCB+P (in air)				= Grounder
+QCF+K (air OK)				= Straight Shooter
+
+Super Moves
+QCB,f+P [Lvl1]				= Atomic Burst
+QCB,f+P (in air) [Lvl1]			= Niagara Pummel
+QCBx2+P [Lvl1], then P, K, K, P		= Final Impact
+QCB,f+2P (air OK) [Lvl2]		= Final Flash
+QCBx2+2P [Lvl2]				= Final Blow
+*LPx2, LKx2, MP, MK, SP, SK 		= Saiyan Rave
+**QCB+SP				= Dirty Bomb			
+**QCB+SK [Lvl1]				= Fingerbang Blaster
+QCBx2+K [Lvl3]				= Elite Assault
+f,HP,MP,LP,f				= Bingo Dance
+
+d,d+MP+MK [Lvl2]			= activate SSJ Blue Mode
+
+Power Mode – 'SSJ Blue Mode'
+DP					= Blue Saiyan Step (can cancel out of Normal and Special Moves)
+d,d+MP+MK 				= activate SSJ Blue Evolved Install (cancels SSJ Blue Mode)
+QCBx2+K [Lvl2]				= ´Blue´ Elite Assault (cancels SSJ Blue Mode)
+
+----------------------------------------------------------------------------------
+
+16 - Vegeta (Majin)
+
+Special Normals
+LK (hold)				= Extended Jumping Weak Kick
+MP / MK, MP (in air)			= Jumping Combo Extender
+b+SP					= Gut Punch
+b+SK					= Hyper Dimension Kick
+f+SK					= Double Axe Kick
+d+SP					= Uppercut
+d+SKx2					= Smash Kick Combo
+SP (in air)				= Big Smash
+SK (in air) 				= Piston Kick
+d+SK (in air)				= Stomp Kick
+b,b+SP					= Backdash Elbow
+f,f+SK					= Dashing Slide Kick
+f,f+SK, d+SKx2				= Dashing Slide Kick Combo
+
+Special Moves
+QCF+P [EX]				= Bakuhatsuha
+DP+P [EX]				= Royal Fist
+QCB+P [EX]				= Surprise Elbow
+*MP+HP or MK+HK				= Dash Cancel
+DP+K [EX]				= Double Slash Kick
+
+Super Moves
+QCFx2+P (air OK) [Lvl1]			= Photon Bomb
+QCB,f+P (air OK) [Lvl1]			= Machine Gun Tantrum
+QCFx2+K [Lvl1]				= Royal Edict
+QCB,f+K (close) [Lvl1]			= Atomic Wave (becomes Royal Taunt on whiff)
+QCBx2+P (hold) [Lvl1~2~3]		= Big Bang Attack
+*QCF+P					= Big Bang Detonator
+QCBx2+K [Lvl3]				= Saiyan Pride Beat Down
+
+d,d+MP+MK [Lvl2]			= activate Sanity Mode
+
+Power Mode - 'Sanity Mode'
+d,d+MP+MK				= Aura Burst (cancels Sanity Mode)
+QCBx2+K [Lvl2]				= 'Insane' Saiyan Pride Beat Down (cancels Sanity Mode)
+
+----------------------------------------------------------------------------------
+
+17 - Vegetto
+
+Special Normals				
+d+SK (in air) 				= Candy Crush
+
+Special Moves
+QCF+P (air OK) [EX]			= Candy Trust 
+QCB+P [EX]				= Going Underground
+QCB+K (in air) [EX]			= Candy Pool
+
+Super Moves
+QCFx2+P (air OK) [Lvl1]			= Phantom Trust
+QCBx2+P [Lvl1]				= Underground Express
+QCBx2+K (in air) [Lvl1]			= 8-Ball Candy
+QCB,f+P (air OK) [Lvl3]			= Final Kamehameha
+
+

@@ -1,0 +1,444 @@
+5.0b patch update log
+=========================================
+
+Babidi
+------------------------
+Beta 10b (20210201) - Stupid bot edition
+- [HDBZ] Updated Air Recovery sound
+- [HDBZ] Updated wakeup turn code
+- [HDBZ] Fixed some quotes
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
+
+Buu
+---------------------------
+Beta 10b (20210201) - Stupid bot edition
+- [HDBZ] Updated Air Recovery sound
+- [HDBZ] Updated wakeup turn code
+- Fixed enemy softlocking during Sticky Bomb impact
+- [HDBZ] Fixed some quotes
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
+
+18
+-----------------------------
+Beta 14b (20210201) - Stupid bot edition
+- Decreased her global damage scale a 10%
+- Fixed missing knockdown on j.HP under certain conditions
+- [HDBZ] Updated wakeup turn code
+- Tweaked JP usage in some moves
+- Fixed Cascade LP pillar's position when launched on boundary location
+- Fixed combo dropping after Power Breaker Lv1>air combo
+- Tweaked damage dampening on Power Breaker and Infinity Bullet
+- Fixed state loop crash when performing Stomp Punch during Accel Dance 
+- [HDBZ] Fixed some quotes
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
+
+Freeza
+---------------------------------
+Beta 23c (20210207) - Unfolded edition
+- Fixed JP usage on Dash kick
+- Fixed Focus Attack glitch introduced in version 23a
+- Added extra failsafe to B Mode combo breaker
+- Fixed proximity check on throws due to coder's memory loss
+- Added FX twist sound to Aerial Zetto Kick Counter
+- Fixed bug in AI performing EX Head Charge without required power
+- [HDBZ] Updated wakeup turn code
+- Finished coding on Classic B alt idle pose
+- Fixed infinites bug accidentally introduced in version 23
+- Tweaked AI routines
+- Added button mash display in Forward Throw
+- Fixed Freeza clone appearing on Team Co-op if partner is SSJ Goku and if enemy is killed with Chou Kamehameha Lv 2 (diagonal version)
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
+
+
+Gohan
+----------------------------------
+Masenko:
+- landing sound now plays properly when opponent is hit out of the air
+
+Normals:
+- added edge width to most jumping normals 
+Masenko:
+- swapped firing SFX for LVL2 ver.
+- added new SFX for lvl2 unleashed ver.
+
+Ki Blast:
+- fixed debug flood issue with EX ver.
+Masenko:
+- added new charge ball FX 
+- charge ball FX no longer scale when masenko is charged
+
+Normals:
+- HKx2 now properly combos on juggled opponents
+System:
+- dizzy stars now apply properly to Gohan
+
+Unleashed Mode:
+- increased unleashed meter charge speed
+
+Masenko:
+- lvl2 unleashed ver. is chargeable again
+- lvl2 unleashed ver. properly stuns
+
+Rising Hurricane Kick:
+- increased invuln time to first active frame
+
+System:
+- removed crossup protection
+- Gohan now turns on the final frame of wakeup rather than in the state after he has stood up
+- Gohan can now crouch guard meaties when back turned
+
+Gekiretsu Ranbu:
+- finished visual adjustments to lvl1 and 2 finishers
+- increased damage of lvl1 and 2 finishers
+- new firing and hit SFX for masenko in finisher 2
+
+Masenko:
+- charge ball FX are no longer scaled without charging
+
+System:
+- removed remaining dub voice lines
+- max charge focus attack now sends opponent to limiter state if it hits an opponent who is already in a hit state
+- throws must be within a certain distance of the opponent's body to connect
+- added 3f of cross up protection on wakeup
+
+Unleashed Mode:
+- charging from activation now charges unleashed meter at the same rate as normal aura charge
+
+Gekiretsu Ranbu:
+- unleashed version should no longer activate from Buu's Gum Header
+- Gohan and opponent are now invulnerable during cinematics
+- slightly changed visuals on finishers lvl0-2
+- reduced screen shake on most hits
+- changed timing on finisher 1 hit to look better
+- added screen shake to flurry punches in finsher 2
+- finisher 2 no longer stuns
+
+Chou Kamehameha:
+- fixed issue with command which caused it to be unusable
+- air version requires proper amount of meter in destiny mode
+
+Masenko:
+- VFX no longer scaled up on non-emo versions
+- new FX for all versions
+
+Thunder Flurry Kick:
+- increased hit velocity on final hit
+- added new hit sound to rapid kicks (both versions)
+
+Dive Kick Flurry:
+- increased minimum damage
+
+Normals:
+- jMK activity reduced by 2f (8f > 6f)
+
+Goku
+------------------------------
+-fixed kaioken crash bug
+-updated focus and turn code
+
+Gotenks
+--------------------------------
+-Power subtraction reworked for EX ghosts
+-no longer can use ghost with zetto
+-added get up backturn protection
+-redefined Gotenks ki blast limiters
+-added ability to fire ex ghosts with P+K of same strength while in an attack state
+-fixed issue with ghosts making exploding noises
+-reverted dmg and juggle time of ghosts
+-changed command for EX WFF to corrispond w the air version
+-removed ex ki blast from sHK*2 combo
+-added min height to air hero pose
+-gain ctrl of superman land after 3 ticks
+-MK ghost call back now calls back 1st 2 ghosts
+-fixed issues with WFF hitting opponents
+-made deteriorating gravity for continued superman use in combos
+-added buffer to grounded hero poses so you can press the attack button earlier and he will auto attack
+-removed cHK follow up from HK AGAIN
+-can INSULT after cHK
+-added air ghost mine
+-added air anims for ghost mine, hero stance, and ballerina
+-can change how all follow ups from hero pose move by holding back, fwd or nothing
+-added throw proximity
+-made cHP easier to combo from
+-SuperMan, Butt Bash, and headcrash can cancel into hypers
+-jHK can cancel into air specials/hypers
+-buffed several SSJ basics clsn
+-ghosts can no longer be hit by physical attacks
+-ghost dmg increased from 30 to 60 and cause chip dmg now
+-ghost juggle limit free time incresed from 120 to 180 ticks
+-added air versions of the Hero Stance
+--LP+MP or LP+HP = WFF Slasher
+--MP+HP = MFF Kicker
+-cHP can combo into specials/supers now
+-sHK can combo into specials/supers now
+-Max Focus now causes hard KD if opponent is in hit state
+
+Krillin
+------------------------------------
+-updated turn code/reverted guard code
+-RocketMan properly resets after hit - wall jump
+-emo carries over to next round
+-added back hop DB+2P
+-added flee power bonus. Hit with an attack then run away
+-jHP head and feet now hit the same way
+-added white palfx to solar flare custom state
+-falling ki blasts no longer fall off screen
+-fixed ability to move after push up intro
+-can now back dash during fwd jump
+-can now wall jump from fwd or back jump and at any time in the air with control
+-wall jump resets air dash limiter (once per jump)
+-wall jump resets RocketMan limiter
+-fixed issue with air fakes resetting JP/combo counters
+-removed scaling from scatter shot ki blast rain
+-fixed power requirement for using solar flare cancels from Ki blasts
+-ki blasts are destroyed when Krillin lands LVL3
+-cannot fire KHH if one "exists"
+-limit for ki blasts increased to 3 from 1
+-ki blasts no longer destroyed when Krillin is hit
+-throw proximity added
+-added get up backturn protection
+-increased jMKx2 hitbox size
+-made KHH beams share color with krillin
+-taunt increases power mode gauge
+-Max Focus now causes hard KD if opponent is in hit state
+
+
+Piccolo
+-------------------------------------
+"Marvelous but it couldn't even walk"
+-----------------------------------------------------------------
+-Added special KD state on hyper for clones
+-Fixed clone and piccolo run sound
+-Fixed short hop back dash clone bug
+-Added clone bingo dance
+-Fixed 5hp2 clone cancle on the FF.
+ -Carnage Blitz Heavy
+ -Sonic kick
+-Clone timers now disappear & freeze when piccolo is in a cinematic
+-Added cheap ko voices
+-Removed FF sounds
+ -21,2
+ -111,0
+ -112,0,1,2,3
+ -2350,2
+ -100,0
+-Reduced MH eye beam and mouth blast min damage
+-Added back test clones(see config var(39) to enable)
+-Removed clones dying from supers
+-Reverted wake up 3f guard code
+-Added new turn code
+-Fixed EX mystic harpoon punch variation
+-Reverted HK clone to punch on harpoons
+-Added delayed air dash fwd&back to MK clones 
+-Added run jump to all clones
+-Fixed EX Mystic Harpoon ender cancelling
+-Fixed Eye Laser pulling instead of pushing from HK clone
+-Added air dash fix
+-Made separate limiter for EX mystic harpoon
+-Added more delay time to MK clones ground/air dashes & back dashes
+-Added combo delay to normals on MK clone
+-Fixed LK,HK delayed run jump
+-Fixed clone run jump turn bug
+-Fixed clones stopping mystic pull
+-Fixed J.Dmk clones not going up
+-Fixed clones not canceling to F.Jhk
+-Fixed Clones not launching F.ShK
+-Removed non delay normal cancels for MK clone
+-Added clone destroyed nothitby
+-Added Clone destroyed hitcount fix
+-Made clones last longer
+-Added crouch hit limiter to Mystic Harpoon
+-Added wakeup 3f guard fix
+-Added hitby to Ex mystic Arm Slam and Harpoon
+-Hitup OTG now has a bigger clsn
+-Adjusted kick super red clsn
+-Added targetbind to kick super
+-Lowered min damage of Seeking Bullet 20->13
+-Fixed EX arm slam not working in the corner
+-Removed Japanese and Sabat voices
+-removed C.hk cancel from the FF.
+ -mystic harpoon normal/punch maunal & AI
+ -Trap Shots manual and AI
+-Added focus combo fix->kd
+-Adjusted SBC heads red clsn(1)
+-Removed non existent level 4 charge SBC
+-Removed taunt emo meter gain
+-Adjusted SBC button hold
+-Destructive wave is gone if clone is hit
+
+Pilaf
+------------------------------
+-updated focus and turn code
+
+Satan
+---------------------------
+-**Misc**:
+	-Megaton Punch:
+		-Compatibility for Majin Vegeta
+-**Buff**:
+	-Dynamite Kick:
+		-Emo version has less horizontal knockback on first hit
+	-Praying Counter:
+		-Now invulnerable to throws
+ -**Nerf**:
+	-Rolling Mine:
+		-No longer invulnerable to throws
+	-Dynamite Kick:
+		-Emo version has less vertical knockback on last hit
+	-Praying Counter:
+		-No longer able to roll when hit by projectiles (still invulnerable)
+-**Misc**:
+	-Wake up Turning code adjusted
+	-Special Megaton compatibility for Majin Vegeta added
+-**Misc**:
+	-Bugfix on Hype carrying over between matches
+	-Held Capsule State is now Idle to allow CPU to attack
+	-Failsafes added to Aerial Zetto Counters to avoid going below the floor
+-**Nerf**:
+	-Wall Jump from Wimbly Nimbly height reduced
+-**Misc**:
+	-Gotenks' Scribble VFX adjusted
+	-Tien's Birds-eye VFX adjusted
+-**Buff**:
+	-Satan can now Taunt in the air while Hype is active
+	-Hype will remain active if Satan has won the previous round
+-**Misc**:
+	-Bugfix on being able to Superjump during Hype activation
+	-Special Intros added if Satan has won the previous round with Hype active	
+-**Buff**:
+	-Increased chance of AI to use Praying Counter
+-**Misc**:
+	-Bugfix on clones spawning from the rock Awesome Item
+	-Position Bind added for Vegetto during Missle Accomplished
+
+SSJ Goku
+---------------------------
+-**Misc**:
+	-Bugfix that would occur when a ki blast would hit the opponent on the same frame as Lvl3 Hyper Rush
+-**Misc**:
+	-Wakeup Turn code adjusted
+	-Palette 8 changed
+-**Buff**:
+	-Damage increased on Lvl 0 Hyper Rush to 363 (from 279)
+	-Damage increased on 1 Inch Punch to 426 (from 364)
+	-Damage increased on Ultra Instinct finisher to 569 (from 510) 
+	-Damage scaling on Ultra Instinct finisher reduced
+-**Misc**:
+	-Gotenks' Scribble VFX adjusted
+	-Reduced AI Throw attempts
+	-Damage difference between Straight and Up Super Kamehameha [2QCF+2P] adjusted to be more aligned
+	-Spirit Bomb VFX changed
+	-Player Push disabled for enemies hit with Smash Attacks to prevent getting stuck
+-**Nerf**:
+	-EX Blast Fist no longer air unblockable
+	-No longer able to Teleport Cancel a whiffed or blocked EX Blast Fist
+-**Misc**:
+	-Bugfix on hitting 18's Blitz Ball with God Bind
+	-Throw proximity added
+	-Full charge Focus Attack mid combo will cause a knockdown instead of stun
+
+
+SSJ Vegeta
+------------------------------------
+February 2 2021
+------------------------------------------
+General: -Run and Backdash no longer autocorrect
+         -Fixed bug with turning on wakeup
+         -Fixed Aura Charge palette issues
+
+Bingo Dance: -The AI can now play the minigame
+
+General: Vegeta is fully invincible during throws
+
+Royal Buster~Heavy Ender: -Horizontal launch velocity increased
+
+Saiyan Rave: -Fixed how move functions against Vegetto
+
+Fun Time Bingo: -Counts as a cinematic
+
+Elite Assault: -Meter cost is no longer reduced while in SSJ Blue Evolved mode
+
+Pride mode: -Increased finisher bar gained from advancing when the opponent is not being hit
+            -Decreased finisher bar gained from advancing when the opponent is being hit
+            -Disabled while in Simul Game Mode
+
+Finisher 2~Big Bang Attack: -Fixed transparency issues on fade out
+
+General: -Added maximum range to throws
+
+Fun Time Bingo: -Added unique background music and sfx
+
+Pride mode: -Increased finisher bar gained when moving forward and the opponent is not being hit
+
+Grounder:-Opponent turns around before getting up
+
+Saiyan Rave: -Decreased forward movement on followups
+
+
+Tien
+-----------------------------
+Feb/2/21
+-----------------------------
+-wings now has air invuln and projectile invuln 
+-applied ground bounce limiter from jSP to serve
+-removed juggle reset from telekinisis and ground bounce
+-Rekka U+K follow up wall bounces
+-proximity throw added
+-updated winquotes
+-removed defense nerf from OM mode
+-added get up backturn protection
+-lowered run hurtbox to floor
+-can no longer run over back thrown opponent
+-added dizzy sound to solar flare dizzy
+-Max Focus now causes hard KD if opponent is in hit state
+-reduced min dmg to 3
+-reduced dmg of Chiatzu Dodompa from 70 to 50
+-reduced power charge time if opponent is in hit state
+-reduced power gain from hits
+-added juggle point requirement to volley ball
+
+Vegeta/Majin
+---------------------------------
+Beta 47c (20210207) - Unfolded edition
+- Added Majin Vegeta Megaton Punch reaction against Satan
+- Added extra failsafes to Saiyan Pride Beatdown
+- Removed face explods during Majin Vegeta Power Charge
+- Removed invulnerability to Attacks on Surprise Elbow
+- Fixed binding issue in Big Bang Attack's dust explod
+- Fixed Final Flash softlocking the game if enemy died while blocking
+- [HDBZ] Updated Air Recovery sound
+- [HDBZ] Updated wakeup turn code
+- Updated Majin Vegeta small portrait
+- Fixed infinites bug accidentally introduced in version 47
+- Fixed cropped sprite in Babidi winpose
+- Fixed buffering issues in Ki Blast
+- Each consecutive slide kick in a combo will decrease the enemy bouncing
+- Fixed MGT>Slide kick
+- Fixed cancels from LP Surprise Elbow
+- Redistributed damage values in Royal Fist
+- Adjusted damage scaling in Big Bang Attack 
+- Lowered smoke trails from Final Flash KO
+- [HDBZ] Fixed some quotes
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
+
+Vegetto
+--------------------------
+Beta 05a (20210201) - Stupid bot edition
+- Prevented hit recoil during hitpauses
+- Improved sprite priority in Final Kamehameha
+- Prevented crossup damage on Final Kamehameha
+- [HDBZ] Updated Air Recovery sound
+- [HDBZ] Updated wakeup turn code
+- [HDBZ] Added KD properties to Focus Attack
+- [HDBZ] Added body proximity check to throws
+- [HDBZ] Updated movelist
